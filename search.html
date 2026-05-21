@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Search — Eagar Corpus</title>
+  <link rel="stylesheet" href="/static/css/site.css">
+</head>
+<body class="">
+  <header class="site-header">
+    <a href="/" class="site-title">A Narrative Pedagogy of Engineering</a>
+    <nav>
+      <a href="/lectures/">Lectures</a>
+      <a href="/cases/">Cases</a>
+      <a href="/casemap.html">Case Map</a>
+      <a href="/search.html">Search</a>
+      <a href="/about.html">About</a>
+    </nav>
+  </header>
+  <main>
+<h1>Search</h1>
+
+<div class="search-controls">
+  <input type="text" id="search-input" placeholder="Search the corpus…" autofocus>
+  <div class="scope-filters">
+    <label><input type="checkbox" name="scope" value="paragraph" checked> Paragraphs</label>
+    <label><input type="checkbox" name="scope" value="case" checked> Cases</label>
+    <label><input type="checkbox" name="scope" value="lecture" checked> Lectures</label>
+  </div>
+</div>
+
+<div id="search-status">Loading search index…</div>
+<div id="search-results"></div>
+
+<script src="https://unpkg.com/lunr@2.3.9/lunr.min.js"></script>
+<script src="static/js/search.js"></script>
+  </main>
+  <footer class="site-footer">
+    <p>The teaching archive of Thomas W. Eagar (1949–2022), MIT. A three-layer searchable corpus. Editorial conventions: <a href="/about.html">methodology</a>. Cite the corpus and the methods paper together — see About for details.</p>
+  </footer>
+</body>
+</html>
