@@ -56,7 +56,7 @@ This lecture is dominated by two extended forensic cases — the Wyman Gordon fo
 
 ### Decorative doorknob casting (prior student paper)
 - **Anchor:** `§1.p5`
-- **canonical_cluster_id:** PROPOSED: Decorative doorknob casting (prior student term paper)
+- **canonical_cluster_id:** "Decorative doorknob casting (prior student term paper)"
 - **Frame in this section:** Example of an acceptable narrow topic. Not a forensic case — a precedent for student work scope.
 
 ### Helms project (post-weld heat treatment success)
@@ -66,7 +66,7 @@ This lecture is dominated by two extended forensic cases — the Wyman Gordon fo
 
 ### Japan Steel Works heavy-section forging capability
 - **Anchor:** `§6.p3`
-- **canonical_cluster_id:** PROPOSED: Japan Steel Works heavy-section forging capability
+- **canonical_cluster_id:** "Japan Steel Works heavy-section forging capability"
 - **Frame in this section:** Context for the North Andover HIP case — the 300-ton vessel could only be forged at Japan Steel Works because of combined steelmaking + forging press capacity. Used to make a point about global supply chain concentration in heavy forgings.
 
 ### Harley-Davidson aluminum cylinder HIP processing
@@ -76,7 +76,7 @@ This lecture is dominated by two extended forensic cases — the Wyman Gordon fo
 
 ### General Aviation Revitalization Act (1994)
 - **Anchor:** `§4.p2`
-- **canonical_cluster_id:** PROPOSED: General Aviation Revitalization Act (1994)
+- **canonical_cluster_id:** "General Aviation Revitalization Act (1994)"
 - **Frame in this section:** Legislative framing for Tom's product-liability argument. Not a forensic case — a regulatory backdrop.
 
 ## Figures referenced

@@ -100,7 +100,7 @@
 
 ### Lehigh University full-scale bridge test facility
 - **Anchor:** `§8.p5`
-- **canonical_cluster_id:** PROPOSED: Lehigh University five-million-pound structural test machine
+- **canonical_cluster_id:** "Lehigh University five-million-pound structural test machine"
 - **Frame in this lecture:** Cited as the largest tensile/structural test facility Holman has seen; full-scale bridge section testing to failure. Used to make the cost argument for computer simulation.
 - **Era:** present
 

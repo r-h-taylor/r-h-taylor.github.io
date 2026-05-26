@@ -29,43 +29,42 @@ This lecture pivots between cost-of-materials framing (§1–§3), conceptual de
 
 ### Galileo's beam-bending sketch
 - **Anchor:** `§4.p1`
-- **canonical_cluster_id:** PROPOSED: Galileo's beam-bending notebook sketch
+- **canonical_cluster_id:** "Galileo's beam-bending notebook sketch"
 - **Frame in this section:** Historical anchor for strength-of-materials development. Galileo's notebook with beam under load and observation that beams break at maximum bending moment.
 - **Era:** early 17th century
 
 ### Henry Bessemer and Andrew Carnegie
 - **Anchor:** `§4.p2`
-- **canonical_cluster_id:** PROPOSED: Bessemer process and Carnegie steel wealth
+- **canonical_cluster_id:** "Bessemer process and Carnegie steel wealth"
 - **Frame in this section:** Historical framing for late-1800s emergence of tensile testing and steel production. Carnegie's worth in today's dollars (~$300B) given as benchmark.
 - **Era:** 1880s
 
 ### Bethlehem Steel Charpy bar testing
 - **Anchor:** `§4.p2`
-- **canonical_cluster_id:** PROPOSED: Bethlehem Steel Charpy testing (Eagar as young engineer)
+- **canonical_cluster_id:** "Bethlehem Steel Charpy testing (Eagar as young engineer)"
 - **Frame in this section:** Tom's personal experience as a 25-year-old engineer producing tough steels and being unpopular for breaking the 260 ft-lb hammer ($400/recalibration).
 - **Materials/systems:** Carbon/HSLA steels
 - **Era:** ~1972–1975 (Tom's Bethlehem years)
 
 ### Plexiglass three-piece fracture demonstration
 - **Anchor:** `§4.p11`
-- **canonical_cluster_id:** PROPOSED: Eagar plexiglass brittle-fracture demonstration
+- **canonical_cluster_id:** "Eagar plexiglass brittle-fracture demonstration"
 - **Frame in this section:** In-class physical demo. Polyethylene/polypropylene bend test (ductile) contrasted with PMMA snap (brittle, shear lip on compression side).
 - **Materials/systems:** PMMA, polyethylene/polypropylene
 
 ### Wuensch crystallography pedagogy
 - **Anchor:** `§5.p1`
-- **canonical_cluster_id:** PROPOSED: Wuensch MIT crystallography teaching (Eagar as student)
+- **canonical_cluster_id:** "Wuensch MIT crystallography teaching (Eagar as student)"
 - **Frame in this section:** Personal anecdote. Wuensch as Tom's sophomore advisor; students given Islamic-mosque mosaic tiles on quizzes to identify symmetry features.
 - **Era:** late 1960s
 
 ### MIT Media Lab tile hack
 - **Anchor:** `§5.p2`
-- **canonical_cluster_id:** PROPOSED: MIT Media Lab lime-green tile hack
+- **canonical_cluster_id:** "MIT Media Lab lime-green tile hack"
 - **Frame in this section:** MIT hack lore. Artist commissioned three primary-color tiles (red, blue, yellow); students added a fourth lime-green tile, taking weeks to be noticed. Artist's reaction made the hack memorable.
 
 ### MIT "No Knife" hack
 - **Anchor:** `§5.p3`
-- **canonical_cluster_id:** PROPOSED: MIT "No Knife" gallery hack
 - **Frame in this section:** MIT hack lore. Students installed a place setting (tray, glass, plate, fork, spoon — no knife) in Building 10 lobby gallery space ~20–25 years prior, with an existentialist artist statement.
 - **Era:** ~1988–1993
 
@@ -78,7 +77,7 @@ This lecture pivots between cost-of-materials framing (§1–§3), conceptual de
 
 ### Tom's knee injury and Vietnam draft
 - **Anchor:** `§6.p3`
-- **canonical_cluster_id:** PROPOSED: Eagar torn cartilage and Vietnam draft exemption
+- **canonical_cluster_id:** "Eagar torn cartilage and Vietnam draft exemption"
 - **Frame in this section:** Personal anecdote. Left-knee cartilage tear ~1968 → 4-F medical exemption; later right-knee tear made it symmetric.
 - **Era:** late 1960s
 
@@ -110,7 +109,6 @@ This lecture pivots between cost-of-materials framing (§1–§3), conceptual de
 
 ### Henry Petroski, *To Engineer is Human*
 - **Anchor:** `§9.p3`
-- **canonical_cluster_id:** PROPOSED: Petroski "To Engineer is Human" reference
 - **Frame in this section:** Tom holds the book. Petroski as Duke professor elected to NAE the same year as Tom for this work. Theme: we only learn from our mistakes; we build bigger until something fails. References Hyatt Regency and *Challenger*.
 
 ### Hyatt Regency walkway collapse (referenced)
@@ -141,7 +139,7 @@ This lecture pivots between cost-of-materials framing (§1–§3), conceptual de
 
 ### 2025 aluminum propeller blade alloy
 - **Anchor:** `§10.p6`
-- **canonical_cluster_id:** PROPOSED: 2025 aluminum propeller-blade alloy (toughness vs. 2024)
+- **canonical_cluster_id:** "2025 aluminum propeller-blade alloy (toughness vs. 2024)"
 - **Frame in this section:** Toughest aluminum alloy; 15× tougher than any other aluminum; named in 1925 right after 2024 Al-Cu. Only application Tom knows: propeller blades. Tom's rhetorical move: a propeller is a critical structure where you want it to bend before snapping.
 
 ## Figures referenced (not cases)

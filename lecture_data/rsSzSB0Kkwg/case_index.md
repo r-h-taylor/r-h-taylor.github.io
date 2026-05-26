@@ -122,7 +122,7 @@
 
 ### BMW i8 carbon fiber automobile (former student's car)
 - **Anchor:** `§6.p6`
-- **canonical_cluster_id:** PROPOSED: BMW i8 carbon fiber composite quality assessment
+- **canonical_cluster_id:** "BMW i8 carbon fiber composite quality assessment"
 - **Frame in this lecture:** Tom's former student Chris (polymers thesis) bought a discounted BMW i8 (~$100K vs. $140K list) and judged the carbon fiber resin transfer molding would never pass aerospace QA. "Low quality, high cost material. But they've innovated."
 
 ## Figures referenced

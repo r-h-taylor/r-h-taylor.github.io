@@ -15,7 +15,7 @@ This lecture is structured around two main industry studies — steel (Chaparral
 
 ### Surgical scissors (medical malpractice premium)
 - **Anchor:** `§1.p7`
-- **canonical_cluster_id:** PROPOSED: Surgical scissors stainless steel teaching demonstration
+- **canonical_cluster_id:** "Surgical scissors stainless steel teaching demonstration"
 - **Frame in this lecture:** Physical-object demonstration. End-use industry (medical) sets the price of commodity-grade engineered goods through liability cost.
 - **Materials/systems:** stainless steel; medical malpractice insurance
 - **Era:** undated; demonstration is contemporary
@@ -38,7 +38,7 @@ This lecture is structured around two main industry studies — steel (Chaparral
 
 ### Steel-vs-concrete parking garage cost arbitrage
 - **Anchor:** `§2.p6`
-- **canonical_cluster_id:** PROPOSED: Steel vs concrete parking garage cost cycle
+- **canonical_cluster_id:** "Steel vs concrete parking garage cost cycle"
 - **Frame in this lecture:** Material competition. A parking garage can be dated to within a decade by which material was cost-competitive at construction.
 - **Materials/systems:** reinforced concrete; structural steel
 - **Era:** ongoing; teaching observation
@@ -81,7 +81,7 @@ This lecture is structured around two main industry studies — steel (Chaparral
 
 ### Sleepy Hollow Glass and bullseye glass economics
 - **Anchor:** `§6.p1`, `§6.p3`, `§6.p5`
-- **canonical_cluster_id:** PROPOSED: Sleepy Hollow Glass bullseye demonstration
+- **canonical_cluster_id:** "Sleepy Hollow Glass bullseye demonstration"
 - **Frame in this lecture:** Historical: untaxed scrap glass over door lintels for light without windows; today: art glass at $55 for a 6-inch square. Pricing inversion (scrap → art).
 - **Materials/systems:** hand-blown soda-lime glass
 - **Era:** 18th century historical; contemporary art-glass pricing
@@ -123,7 +123,7 @@ This lecture is structured around two main industry studies — steel (Chaparral
 
 ### Corning trade-secret manufacturing culture
 - **Anchor:** `§8.p5`, `§9.p4`, `§10.p4`
-- **canonical_cluster_id:** PROPOSED: Corning trade-secret manufacturing culture
+- **canonical_cluster_id:** "Corning trade-secret manufacturing culture"
 - **Frame in this lecture:** Highest-security site Tom has ever entered (NDAs, no cameras, Corning takes/reviews/sends pictures). Inbred ceramics workforce that moves to Alfred University in retirement. Two 1970s product lines: incandescent light bulb envelopes and TV cathode ray tubes. Losing CRT business spawned new businesses including LCD substrate glass.
 - **Materials/systems:** trade-secret process IP; CRT glass; light bulb glass; LCD substrate
 - **Era:** 1970s onward
@@ -137,7 +137,7 @@ This lecture is structured around two main industry studies — steel (Chaparral
 
 ### LCD stack (six-layer composite)
 - **Anchor:** `§8.p6`
-- **canonical_cluster_id:** PROPOSED: Liquid crystal display glass-stack architecture
+- **canonical_cluster_id:** "Liquid crystal display glass-stack architecture"
 - **Frame in this lecture:** Six-layer build: polarizing film / glass substrate with indium tin oxide / twisted nematic liquid crystal / second glass substrate with ITO / polarizing film / reflective or backlit rear surface. Aside on indium tin oxide as a rare conductive-transparent material; "transparent aluminum is only on Star Trek."
 - **Materials/systems:** indium tin oxide; twisted nematic LC; polarizing film
 - **Era:** contemporary

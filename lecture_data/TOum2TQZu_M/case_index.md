@@ -218,26 +218,25 @@
 
 ### Phelps Dodge / Boston-New Hampshire trolley wire procurement (from chunk 2)
 - **Anchor:** `§12.p1`
-- **canonical_cluster_id:** PROPOSED: extension of "Accel trolley wire for Boston-New Haven electrified rail upgrade" — *but the lecture says New Hampshire, not New Haven*. Possibly Tom misspoke (Boston-New Haven Amtrak Acela is the established case), or this is a distinct procurement. Flagged for editor review.
 - **Frame in this lecture:** Brief reference within §12.p1; cited as an application of the Conform process. The specific role here is to anchor "Conform produces real industrial product, not just research curio."
 - **Materials/systems:** Copper trolley wire.
 
 ### Nuclear Metals (Concord, MA) rotating electrode process and depleted uranium production (from chunk 2)
 - **Anchor:** `§13.p2`–`§13.p3`
-- **canonical_cluster_id:** PROPOSED: "Nuclear Metals (Concord MA) rotating electrode process and depleted uranium extrusion"
+- **canonical_cluster_id:** "Nuclear Metals (Concord MA) rotating electrode process and depleted uranium extrusion"
 - **Frame in this lecture:** MIT Mech-E spinoff in Concord, MA; manufactured all US depleted-uranium kinetic-energy penetrator rounds by extrusion. About 20 years before lecture date, they developed the rotating electrode process: a spinning machined ingot of homogeneous alloy is melted at its tip by a plasma torch and centrifugally atomized into clean powder. Yields aerospace-quality superalloy powders for jet-engine rotors.
 - **Materials/systems:** Depleted uranium (extrusion); nickel-base superalloys (rotating electrode powder).
 - **Era:** Founded mid-20th century; rotating electrode process developed ~1990s; depleted uranium production discontinued after First Gulf War for Army applications (Navy may have continued).
 
 ### MIT doctoral exam reverberatory-furnace-in-vacuum error (from chunk 3)
 - **Anchor:** `§15.p3`
-- **canonical_cluster_id:** PROPOSED: Doctoral exam vacuum reverberatory furnace design error
+- **canonical_cluster_id:** "Doctoral exam vacuum reverberatory furnace design error"
 - **Frame in this chunk:** A doctoral candidate's general-exam answer designed a reverberatory furnace operating in vacuum — flame shooting into a vacuum chamber. Tom and Professor Clark verified it was a real (not joke) answer; the student failed and never received a doctorate. Used to make the point that MIT does have standards.
 - **Era:** Tom's second year on faculty (≈1980).
 
 ### MIT foundry chlorine degassing of aluminum (from chunk 3)
 - **Anchor:** `§19.p3`
-- **canonical_cluster_id:** PROPOSED: MIT Foundry aluminum chlorine cleaning operations
+- **canonical_cluster_id:** "MIT Foundry aluminum chlorine cleaning operations"
 - **Frame in this chunk:** When Tom was a student, the MIT foundry degassed molten aluminum by bubbling chlorine gas through it via a steel lance, venting HCl into the Cambridge air. Practice no longer permitted; modern practice uses hexachloroethane pellets or nitrogen.
 - **Materials/systems:** molten aluminum, chlorine, hexachloroethane (C₂Cl₆), hydrogen removal.
 - **Era:** Tom's student years (late 1960s–early 1970s).
@@ -261,7 +260,7 @@
 
 ### Navy laser/plasma cladding for shaft and bearing repair (from chunk 3)
 - **Anchor:** `§16.p2`, `§16.p6`
-- **canonical_cluster_id:** PROPOSED: Navy spray and laser cladding repair program
+- **canonical_cluster_id:** "Navy spray and laser cladding repair program"
 - **Frame in this chunk:** Navy uses metal spray (flame spray, plasma spray) and laser cladding to repair worn shafts and bearings on ships and submarines. Builds up surface, then machines back to dimension. Tom notes copper alloy bearings and aluminum corrosion-resistant coatings as common applications.
 - **Materials/systems:** copper alloys, aluminum, steel.
 
@@ -285,12 +284,12 @@
 
 ### Aluminum foamed structure (Gibson project) (from chunk 3)
 - **Anchor:** `§20.p1`, `§20.p2`
-- **canonical_cluster_id:** PROPOSED: MIT foamed aluminum research (Gibson)
+- **canonical_cluster_id:** "MIT foamed aluminum research (Gibson)"
 - **Frame in this chunk:** Professor Lorna Gibson at MIT had a multi-million-dollar program on foamed aluminum produced by gas injection into the melt (analogous to styrofoam manufacture, but with nitrogen). Sheets four to five inches thick and feet wide were produced; no commercial application was ever found. Tom's case for "easy to make, hard to use."
 
 ### High-pressure-melt fine metal powder atomization startup (from chunk 3)
 - **Anchor:** `§20.p3`
-- **canonical_cluster_id:** PROPOSED: High-pressure-melt fine powder atomization startup (Boston-area, unnamed)
+- **canonical_cluster_id:** "High-pressure-melt fine powder atomization startup (Boston-area, unnamed)"
 - **Frame in this chunk:** A local entrepreneur tried to make sub-30-micron metal powders by melting under high gas pressure to supersaturate the melt, then atomizing into a vacuum chamber so droplets would explode as gas came out of solution. Process worked technically but the economics and application never materialized. Sets up the §20.p4 explanation of why fine powders are pyrophoric.
 
 ### Pyrophoric metal powder fires (flares, rockets, fireworks) (from chunk 3)
@@ -313,7 +312,7 @@
 
 ### Air Force classified 50-megawatt laser weapon (open-literature inference) (from chunk 4)
 - **Anchor:** `§23.p1`–`§23.p3`
-- **canonical_cluster_id:** PROPOSED: "Air Force 50-megawatt laser weapon classified power inference"
+- **canonical_cluster_id:** "Air Force 50-megawatt laser weapon classified power inference"
 - **Frame in this lecture:** Tom's three-method inference from open literature (superconducting generator program, Bowen's halide glass window project, Rockwell engineer's space-shuttle-cargo-bay confirmation) deducing the classified laser weapon power and the rationale for sizing the Space Shuttle cargo bay.
 - **Materials/systems:** Halide glass laser windows, superconducting 50 MW airborne generator, Space Shuttle cargo bay dimensions.
 - **Era:** Late 1960s sizing decision; early 1980s Rockwell conversation.

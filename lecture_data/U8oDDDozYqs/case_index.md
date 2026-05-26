@@ -14,7 +14,7 @@
 
 ### NIST F1 atomic clock
 - **Anchor:** `§1.p2`, `§6.p13`
-- **canonical_cluster_id:** PROPOSED: NIST F1 atomic clock as measurement standard
+- **canonical_cluster_id:** "NIST F1 atomic clock as measurement standard"
 - **Frame in this lecture:** One part in 10¹⁵ accuracy — one second in 30 million years. Returns at end of lecture as the time-measurement upper bound.
 - **Note:** Recurring framing reference rather than a teaching case proper.
 
@@ -33,7 +33,7 @@
 
 ### Fire assay for gold analysis
 - **Anchor:** `§6.p3`–`§6.p8`
-- **canonical_cluster_id:** PROPOSED: Fire assay gold analysis (MIT historical curriculum)
+- **canonical_cluster_id:** "Fire assay gold analysis (MIT historical curriculum)"
 - **Frame in this lecture:** Tom's account of the centuries-old gravimetric technique still standard for referee gold analysis: digest in lead bath, oxidize off base metals, separate gold-silver button, dissolve silver in nitric, weigh refined gold. One part in 5,000 accuracy. Tom notes he was tasked 25–30 years ago with developing a replacement; inductively coupled plasma is finally getting close.
 - **Materials/systems:** karat gold, lead bath digestion, nitric acid silver dissolution.
 - **Era:** MIT undergraduate fire assay curriculum until early/mid-20th century; technique itself ancient. Tom's replacement-process work c. 1982–1987.

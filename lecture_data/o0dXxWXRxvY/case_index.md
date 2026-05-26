@@ -8,7 +8,7 @@ This lecture covers the economics of materials, university productivity (aside),
 
 ### Magnesium anode in steel hot water tanks (Juarez maquiladora glass-line repair)
 - **Anchor:** `§4.p1`–`§4.p10`
-- **canonical_cluster_id:** PROPOSED: Magnesium anode in domestic steel hot water tanks
+- **canonical_cluster_id:** "Magnesium anode nickel contamination failure"
 - **Frame in this lecture:** Spine of the corrosion thread. The anode's high-purity magnesium spec (<7 ppm nickel) used to teach concentration-cell corrosion; the Juarez fabrication line used to teach how design accommodates real-world coating defects.
 - **Materials/systems:** magnesium anode, glass-lined steel tank, epoxy patch, nickel-impurity concentration cell.
 - **Era:** ongoing manufacturing practice.
@@ -35,7 +35,7 @@ This lecture covers the economics of materials, university productivity (aside),
 
 ### Magnesium under-dashboard corrosion (modern automobiles)
 - **Anchor:** `§5.p10`
-- **canonical_cluster_id:** PROPOSED: Magnesium under-dashboard automotive components
+- **canonical_cluster_id:** "Magnesium under-dashboard automotive components"
 - **Frame in this lecture:** Where DOE-funded magnesium use actually landed in production cars: hidden, non-cosmetic, vehicle-life-only structural support.
 - **Era:** 1990s–present.
 
@@ -56,7 +56,7 @@ This lecture covers the economics of materials, university productivity (aside),
 
 ### Alcoa Wear-Ever cookware (pure aluminum)
 - **Anchor:** `§6.p4`
-- **canonical_cluster_id:** PROPOSED: Alcoa Wear-Ever pure-aluminum cookware
+- **canonical_cluster_id:** "Alcoa Wear-Ever pure-aluminum cookware"
 - **Frame in this lecture:** Example of pure aluminum's water-corrosion resistance. The 5000-series aluminum-magnesium alloys for seawater service contrast with copper-bearing aluminum's poor saltwater performance.
 
 ### Aloha Airlines Flight 243 (corrosion fatigue, 1988)
@@ -83,7 +83,7 @@ This lecture covers the economics of materials, university productivity (aside),
 
 ### Terne plate (lead-coated steel) for automotive gas tanks
 - **Anchor:** `§9.p5`–`§9.p6`
-- **canonical_cluster_id:** PROPOSED: Terne plate (lead-coated steel) gas tanks and roofing
+- **canonical_cluster_id:** "Terne plate (lead-coated steel) gas tanks and roofing"
 - **Frame in this lecture:** Lead carbonate as a protective surface oxide; almost impossible to find today; recurs in §11.p2 in the context of Tom's eighty-five-year-old house's window flats.
 
 ### Eighty-five-year-old terne plate window flats (Tom's house, copper replacement)
@@ -111,7 +111,7 @@ This lecture covers the economics of materials, university productivity (aside),
 
 ### Don Sadoway's startup company (Ambri)
 - **Anchor:** `§2.p9`, `§8.p8`
-- **canonical_cluster_id:** PROPOSED: Don Sadoway liquid metal battery / Ambri
+- **canonical_cluster_id:** "Don Sadoway liquid metal battery / Ambri"
 - **Frame in this lecture:** Two distinct uses: (§2.p9) Bill Gates funding Don Sadoway's startup as a teaching/externality story; (§8.p8) the technical constraint that very few elements give the >1 V cell voltage Ambri's design requires, because IR losses in copper interconnects eat shallow cell potentials.
 
 ## Figures referenced (recurring numeric anchors, not cases)

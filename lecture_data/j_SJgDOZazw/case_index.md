@@ -34,7 +34,7 @@
 
 ### Ford Explorer chromic acid plating shop
 - **Anchor:** `§4.p3`
-- **canonical_cluster_id:** PROPOSED: Ford Explorer chromic acid plating facility (1990s environmental retrofit)
+- **canonical_cluster_id:** "Ford Explorer chromic acid plating facility (1990s environmental retrofit)"
 - **Frame in this lecture:** Mid-1990s, Ford built an environmentally controlled chromic acid plating shop for Ford Explorers at a couple hundred million dollars. Used to mark the end of the chrome-plating gap that began in 1982.
 - **Era:** mid-1990s
 

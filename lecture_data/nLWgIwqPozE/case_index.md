@@ -38,7 +38,7 @@ The lecture has two distinct case arcs: the brief Navy aluminum / Falklands mate
 
 ### David Taylor Model Basin (Annapolis) institutional history
 - **Anchor:** `§2.p5`–`§2.p6`
-- **canonical_cluster_id:** `David Taylor Model Basin titanium welding limitations` (closest existing cluster); the Severn River corrosion data and sonar building anecdote may be `PROPOSED: David Taylor Model Basin institutional history`
+- **canonical_cluster_id:** "David Taylor Model Basin aluminum replacement program"
 - **Frame in this lecture:** Tom's summers working there; Severn River corrosion test as source of Navy corrosion data; classified sonar research building. Setting for the aluminum-replacement program.
 
 ### Aluminum baseball bat
@@ -118,7 +118,7 @@ The lecture has two distinct case arcs: the brief Navy aluminum / Falklands mate
 
 ### Pittsfield, Massachusetts GE Lightning Research Center
 - **Anchor:** `§6.p3`
-- **canonical_cluster_id:** *not in aggregate v2* — `PROPOSED: GE Pittsfield Lightning Research Center (distribution transformer testing)`
+- **canonical_cluster_id:** "GE Pittsfield Lightning Research Center (distribution transformer testing)"
 - **Frame in this lecture:** Historic site of distribution transformer lightning testing; where CSST manufacturers did their belated lightning research starting around 2001.
 
 ## Figures referenced in this lecture

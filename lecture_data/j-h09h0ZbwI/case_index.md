@@ -15,7 +15,7 @@ Lecture 1 is the course opener. Most "cases" here are framing references rather 
 
 ### Titusville / Edwin Drake oil discovery
 - **Anchor:** `§4.p4`
-- **canonical_cluster_id:** `PROPOSED: Titusville Pennsylvania - Edwin Drake first oil drilling (1859)`
+- **canonical_cluster_id:** "Titusville Pennsylvania - Edwin Drake first oil drilling (1859)"
 - **Frame in this lecture:** Historical anchor for the Oil City story; introduces oil-bubbling-up-from-the-ground geology that becomes the bridge to Alaskan tar sands.
 - **Era:** 1856 (per Tom; conventional date is 1859)
 
@@ -33,7 +33,7 @@ Lecture 1 is the course opener. Most "cases" here are framing references rather 
 
 ### Nick Grant tobacco company metal-powder consulting
 - **Anchor:** `§5.p1`
-- **canonical_cluster_id:** `PROPOSED: Nick Grant tobacco company metal powder filter research (1980s)`
+- **canonical_cluster_id:** "Tobacco company metal powder research"
 - **Frame in this lecture:** Tom's example of how even tobacco research has a material-science angle. Used to illustrate the breadth of externalities and how industry research money flows.
 - **Materials/systems:** metal powders for cigarette smoke absorption
 
@@ -89,14 +89,14 @@ Lecture 1 is the course opener. Most "cases" here are framing references rather 
 
 ### Bethlehem Steel research lab and 1974 employment
 - **Anchor:** `§7.p3`, `§7.p4`, `§7.p5`
-- **canonical_cluster_id:** `PROPOSED: Bethlehem Steel research labs - 1974 employment and 1945-cohort management failure`
+- **canonical_cluster_id:** "Bethlehem Steel research labs - 1974 employment and 1945-cohort management failure"
 - **Frame in this lecture:** Tom's first industry employer. The "1945 cohort" managers who never updated their mindset from 75% world share to 25%. The $600M research facility on South Mountain. Don Blickwede (vice president, MIT MatSci alumnus). Bethlehem's exploration of nuclear steel-making.
 - **Era:** Tom there 1974; cohort hired ~1944
 - **Note:** This is likely an instance of broader U.S. steel-industry-decline clusters (`US Steel Industry Crisis and Japanese Competition`, `US Steel industry decline and management failure`); flag for canonical merge.
 
 ### Norm Augustine and socio-engineering
 - **Anchor:** `§6.p1`, `§6.p2`, `§6.p3`
-- **canonical_cluster_id:** *not yet in aggregate v2* — proposed addition: `PROPOSED: Norm Augustine aircraft cost projection and socio-engineering framing`
+- **canonical_cluster_id:** "Norm Augustine aircraft cost projection and socio-engineering framing"
 - **Frame in this lecture:** Augustine's log-plot prediction that by 2020 the entire Air Force budget would buy one aircraft; by 2045 the entire DoD budget would buy one. Used as the bridge into externalities-as-a-discipline.
 - **Era:** Augustine's plot ~1980
 

@@ -39,7 +39,7 @@ This lecture is dominated by arc-physics teaching (plasma arcs, arc ignition, pl
 
 ### National Lightning Detection Network
 - **Anchor:** `§4.p6`
-- **canonical_cluster_id:** PROPOSED: National Lightning Detection Network
+- **canonical_cluster_id:** "National Lightning Detection Network"
 - **Frame in this lecture:** Cited as a real-world example of RF detection from electric arcs — 17 U.S. stations triangulate every lightning strike to within 3–5 km and estimate strike current from EMI.
 - **Materials/systems:** RF triangulation
 - **Era:** contemporary
@@ -60,7 +60,7 @@ This lecture is dominated by arc-physics teaching (plasma arcs, arc ignition, pl
 
 ### Nils Christensen and the dimensionless Rosenthal solution
 - **Anchor:** `§8.p9`–`§8.p13`
-- **canonical_cluster_id:** PROPOSED: Nils Christensen dimensionless Rosenthal solution and MIT doctoral thesis theft
+- **canonical_cluster_id:** "Niels Christensen's doctoral thesis theft and redo"
 - **Frame in this lecture:** Norwegian freedom fighter during WWII (skiing across the Sweden–Norway border), Christensen came to MIT post-war on scholarship to work with John Chipman on welding fluxes. His first doctoral thesis manuscript was lost — Tom relates Christensen's surmise that Soviet spies at MIT stole it; he redid the work in nine extra months. Later, laid up in a Trondheim hospital bed in the mid-1960s, he extended Rosenthal's solution to dimensionless form, published in the *British Welding Journal* (1966). Returned to MIT for a sabbatical in the early 1980s; now deceased.
 - **Materials/systems:** welding flux thermodynamics; dimensionless heat-flow solutions
 - **Era:** WWII; mid-1960s; early 1980s
@@ -68,14 +68,14 @@ This lecture is dominated by arc-physics teaching (plasma arcs, arc ignition, pl
 
 ### Nunsen Chai distributed-heat-source thesis (early 1980s)
 - **Anchor:** `§8.p19`–`§8.p21`
-- **canonical_cluster_id:** PROPOSED: Nunsen Chai distributed heat source PDP-11 computation
+- **canonical_cluster_id:** "Nunsen Chai distributed heat source PDP-11 computation"
 - **Frame in this lecture:** Tom's student in the early 1980s, using a PDP-11/23 (16-bit, 10 MB hard drives at ~$1000) with weekend-long runs, extended Rosenthal's point-source solution to a distributed heat source on the GTA arc, computing variable depth-to-width ratios via Green's function superposition. Chai is now number two at Taiwan Semiconductor Manufacturing.
 - **Materials/systems:** GTA arc heat distribution; Green's functions
 - **Era:** early 1980s
 
 ### Vivek Dave subsurface heat distribution work (early 1990s)
 - **Anchor:** `§8.p21`
-- **canonical_cluster_id:** PROPOSED: Vivek Dave subsurface heat distribution DARPA work
+- **canonical_cluster_id:** "Vivek Dave subsurface heat distribution DARPA work"
 - **Frame in this lecture:** Under DARPA sponsorship in the early 1990s, Dave extended the Chai distributed-surface heat source to include heat distribution beneath the surface (surface depression effects). Cited as the last step in the lineage before finite-element methods made the analytical extensions obsolete.
 - **Materials/systems:** weld pool surface depression; subsurface heat sources
 - **Era:** early 1990s
@@ -110,21 +110,21 @@ This lecture is dominated by arc-physics teaching (plasma arcs, arc ignition, pl
 
 ### Stud welding (Friday lecture callback) and arc blow
 - **Anchor:** `§7.p9`
-- **canonical_cluster_id:** PROPOSED: Stud welding arc blow callback
+- **canonical_cluster_id:** "Arc blow magnetization in shipyard welding"
 - **Frame in this lecture:** Tom references his Friday discussion of stud welding as the original setup for the arc-blow discussion — current turning 90° through a long thin workpiece concentrates the magnetic field on the inside of the bend and pushes the arc outward.
 - **Materials/systems:** stud welding; magnetic arc blow
 - **Era:** unspecified
 
 ### Arthur Amos Noyes / Caltech founding (German scientific dominance)
 - **Anchor:** `§3.p8`
-- **canonical_cluster_id:** PROPOSED: Arthur Amos Noyes MIT to Caltech transition
+- **canonical_cluster_id:** "Arthur Amos Noyes MIT to Caltech transition"
 - **Frame in this lecture:** Cited (Tom couldn't recall the name on tape; bracketed in L3) as illustration of the German dominance of physical chemistry through ~1900 — the founder of Caltech, formerly MIT acting president, had studied in Germany around the turn of the century. Used to motivate why MIT undergraduates were required to read German in the 1880s.
 - **Materials/systems:** —
 - **Era:** ~1900
 
 ### Professor Leeb fluorescent-light loudspeaker patent
 - **Anchor:** `§6.p9`
-- **canonical_cluster_id:** PROPOSED: MIT Leeb fluorescent light loudspeaker patent
+- **canonical_cluster_id:** "MIT Leeb fluorescent light loudspeaker patent"
 - **Frame in this lecture:** MIT EECS professor Steven Leeb patented use of fluorescent lighting fixtures as building-wide loudspeakers for emergency announcements, exploiting the same arc-modulation physics by which a 20-kW transistorized arc supply in Tom's lab could be talked through. A European company sells $10,000 GTA-based audiophile speakers exploiting the same effect (with Tom's "you can sell anything to a music aficionado" aside on monster cables).
 - **Materials/systems:** fluorescent arc lamps; GTA speakers
 - **Era:** ~2000s
@@ -138,7 +138,7 @@ This lecture is dominated by arc-physics teaching (plasma arcs, arc ignition, pl
 
 ### Ragnar and Else Holm electric-contacts research
 - **Anchor:** `§3.p9`–`§3.p14`
-- **canonical_cluster_id:** PROPOSED: Ragnar and Else Holm electric contacts and arc ignition theory
+- **canonical_cluster_id:** "Ragnar and Else Holm electric contacts and arc ignition theory"
 - **Frame in this lecture:** German émigré scientist Ragnar Holm (with his wife Else, both PhDs, of Saint Marys, Pennsylvania) at Westinghouse wrote *Electric Contacts* (now in its 4th edition) and derived the contact-asperity heating equivalence between the voltage and temperature fields (both Laplace's equation). His table of softening/melting/boiling voltages (Ag at 90 mV softening, 0.41 V melting Cu, 1.1 V melting W, etc.) explains that arc ignition in welding occurs by boiling metal asperities during contact separation at sub-volt voltages — *not* by Paschen breakdown or field emission as welding handbooks still claim. The IEEE Holm Conference is named for him.
 - **Materials/systems:** Ag, Cu, W, Mo, WC-Co contacts; Laplace's equation
 - **Era:** 1940s

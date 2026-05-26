@@ -8,7 +8,7 @@ This is a procedurally-oriented lecture on welding codes, with the metallurgical
 
 ### Pentium 2 two-chip package (residual stress limit on chip size)
 - **Anchor:** `§1.p4`
-- **canonical_cluster_id:** PROPOSED: Pentium 2 two-chip package and one-centimeter joining limit
+- **canonical_cluster_id:** "Pentium 6 / Early 1990s large-format chip bonding"
 - **Frame in this lecture:** Tom's tour of an Intel plant in the late 1990s revealed that the Pentium 2, unlike the original Pentium, was actually two chips in one package — because you couldn't join something more than about one centimeter on a side without cracking from residual soldering/brazing stresses. Used to undermine the redefinition of Moore's Law.
 - **Era:** late 1990s
 - **Materials/systems:** silicon chip joining, residual stress, solder/braze
@@ -22,14 +22,14 @@ This is a procedurally-oriented lecture on welding codes, with the metallurgical
 
 ### Auto-rotation training on the Bell 407
 - **Anchor:** `§5.p5`
-- **canonical_cluster_id:** PROPOSED: Bell 407 ground school auto-rotation training
+- **canonical_cluster_id:** "Bell 407 ground school auto-rotation training"
 - **Frame in this lecture:** Tom's personal recollection of doing an auto-rotation under a test pilot's supervision during ground school for the Bell 407. Used to ground the auto-rotation explanation in concrete experience. Harrison Ford is mentioned as having gone through the same training the week before.
 - **Era:** unspecified
 - **Note:** This is a Tom-the-pilot anecdote, not a forensic case. May not warrant promotion to canonical case status — flag for editor.
 
 ### Hovering helicopter engine-loss fatalities
 - **Anchor:** `§5.p6`
-- **canonical_cluster_id:** PROPOSED: hovering helicopter engine-loss fatalities and operating-envelope litigation
+- **canonical_cluster_id:** "Helicopter engine loss lawsuits"
 - **Frame in this lecture:** Tom references "a couple of situations" where pilots lost engines while hovering with no forward momentum, dropped, and died, leading to lawsuits over whether they should have been in the dead-zone of the operating envelope. Used to make the point that hovering is more dangerous than flying.
 - **Era:** unspecified
 - **Note:** Tom is plural ("a couple of situations") — this may aggregate multiple individual consulting cases. Flag for editor.

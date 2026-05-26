@@ -26,13 +26,13 @@
 
 ### Tom Eagar's electron-beam-melted engagement ring
 - **Anchor:** `§5.p2`
-- **canonical_cluster_id:** PROPOSED: Tom Eagar's electron-beam-melted engagement ring (graduate-school anecdote)
+- **canonical_cluster_id:** "Electron beam melter fatal electrocution"
 - **Frame in this lecture:** Graduate-student aside motivating the gold/iridium/platinum ranking at the top of thermodynamic nobility. Includes the "would have been a shorter wedding" near-electrocution.
 - **Materials/systems:** gold alloy; electron-beam melter.
 
 ### Polonium poisoning of Ukrainian president
 - **Anchor:** `§5.p3`–`§5.p4`
-- **canonical_cluster_id:** PROPOSED: Polonium poisoning of Ukrainian president (Yushchenko reference)
+- **canonical_cluster_id:** "Polonium poisoning of Ukrainian president (Yushchenko reference)"
 - **Frame in this lecture:** Used at the polonium entry in the practical-nobility table. Tom dates it "two or three years ago" (lecture is 2014; he is likely conflating the 2004 Yushchenko dioxin poisoning with the 2006 Litvinenko polonium poisoning — Tom's apparent factual error preserved per convention; flagged for footnote).
 
 ### NYC titanium heat exchanger fire
@@ -50,7 +50,7 @@
 
 ### H.C. Starck tantalum production facility (Newton, MA)
 - **Anchor:** `§7.p1`
-- **canonical_cluster_id:** PROPOSED: H.C. Starck tantalum production facility (Newton, Massachusetts)
+- **canonical_cluster_id:** "H.C. Starck tantalum production facility (Newton, Massachusetts)"
 - **Frame in this lecture:** Half of the world's tantalum is processed at a Bayer-owned facility built in a rural area of Newton in the late 1940s, now surrounded by residential homes. Tom's source for the tantalum tube he passes around.
 - **Era:** late 1940s founding.
 

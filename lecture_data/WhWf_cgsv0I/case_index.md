@@ -281,7 +281,7 @@
 
 ### Tractor-trailer king-pin lockdown cast-iron fracture (from chunk 3)
 - **Anchor:** `§20.p1`
-- **canonical_cluster_id:** PROPOSED: **Tractor-trailer king-pin cast-iron lockdown fracture**
+- **canonical_cluster_id:** "Tractor-trailer king-pin cast-iron lockdown fracture"
 - **Frame in this lecture:** Stage-direction case — Tom holds up a cast-iron lockdown component from a tractor-trailer fifth-wheel king pin assembly. The part bounced out, causing an accident; Tom is running tests for an active forensic case. Used to motivate why cast iron is fine for complex shapes despite brittleness.
 - **Materials/systems:** cast iron
 - **Era:** active 2014 consulting work

@@ -6,7 +6,7 @@
 
 ### MIT–Caltech origin story (Noyes / Walker / Millikan)
 - **Anchor:** `§9.p1`–`§9.p4`
-- **canonical_cluster_id:** `PROPOSED: MIT-Caltech origin story (Noyes-Walker-Millikan)`
+- **canonical_cluster_id:** "MIT-Caltech origin story (Noyes-Walker-Millikan)"
 - **Frame in this lecture:** Tom's explanation of why MIT emphasizes practical engineering ("mens et manus") while Caltech became a pure-science institution. Used to set up the "stress at MIT is self-inflicted" point and as historical context for MIT's teaching mission.
 - **Materials/systems:** none (institutional history)
 - **Era:** ~1880s–1910s
@@ -34,13 +34,13 @@
 
 ### Digital Alloys titanium part for Boeing
 - **Anchor:** `§11.p3`
-- **canonical_cluster_id:** `PROPOSED: Digital Alloys / Boeing titanium AM qualification`
+- **canonical_cluster_id:** "Boeing titanium part certification testing"
 - **Frame in this lecture:** Physical sample displayed by Tom. The Digital Alloys company is a quarter mile from MIT, makes titanium parts by high-speed rod deposition for Boeing qualification testing.
 - **Materials/systems:** titanium rod feedstock, additive manufacturing
 
 ### Desktop Metals powder-bed demos
 - **Anchor:** `§11.p4`
-- **canonical_cluster_id:** `PROPOSED: Desktop Metals powder-bed shrinkage defects`
+- **canonical_cluster_id:** "Early binder jetting porosity defect"
 - **Frame in this lecture:** Physical sample displayed by Tom (borrowed from Mike Tarkanian). Demonstrates the 50% void / 50% shrinkage problem of powder-bed processes and the resulting defects visible on the fracture surface.
 - **Materials/systems:** metal powder, sintering, powder-bed additive manufacturing
 - **Related canonical clusters:** `Additive manufacturing powder bed part failure`, `Early binder jetting porosity defect`
@@ -59,12 +59,12 @@
 
 ### Japanese sword smithing (student paper / Mike Tarkanian)
 - **Anchor:** `§6.p4`
-- **canonical_cluster_id:** `PROPOSED: Japanese sword smithing (student / Tarkanian)`
+- **canonical_cluster_id:** "Japanese sword smithing (student / Tarkanian)"
 - **Frame in this lecture:** Mentioned only as an example student paper topic. No technical treatment.
 
 ### Antique European doorknobs (student paper)
 - **Anchor:** `§6.p5`
-- **canonical_cluster_id:** `PROPOSED: Antique European doorknobs (student paper)`
+- **canonical_cluster_id:** "Antique European doorknobs (student paper)"
 - **Frame in this lecture:** Mentioned only as an example of an unusual but acceptable student paper topic.
 
 ### BMW i3 carbon fiber automobile (student paper)

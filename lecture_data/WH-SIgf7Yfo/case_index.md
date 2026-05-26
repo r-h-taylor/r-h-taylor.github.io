@@ -37,7 +37,7 @@ This lecture is built around one extended forensic case (the cement truck pressu
 
 ### Bearing manufacturer Chemical Safety Board participation
 - **Anchor:** `§4.p7`
-- **canonical_cluster_id:** PROPOSED: Bearing manufacturer Chemical Safety Board participation case
+- **canonical_cluster_id:** "Kaydon bearing conformity failure and helicopter crashes"
 - **Frame in this section:** One-line back-reference ("I told you about the bearing manufacturer who put their own attorney on…"). Not developed here. Likely refers to one of the helicopter bearing cases in the canon (`Kaydon bearing conformity failure and helicopter crashes` or similar) — flag for cross-referencing.
 
 ### 9 Chrome 1 moly steel qualification effort

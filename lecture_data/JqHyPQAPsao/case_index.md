@@ -70,12 +70,12 @@ This lecture is the hydrogen-cracking war-stories session of the welding metallu
 
 ### HSLA-80 / A710 development (International Nickel)
 - **Anchor:** `§5.p6`
-- **canonical_cluster_id:** PROPOSED: International Nickel A710 / HSLA-80 predecessor development
+- **canonical_cluster_id:** "International Nickel A710 / HSLA-80 predecessor development"
 - **Frame:** A710 as predecessor to HSLA-80; one-to-two percent nickel; considered as crack-stopper insert material but rejected on cost and global nickel supply. Tom's young-engineer question about building the whole pipeline out of it.
 
 ### Gas vs. liquid pipeline fracture mechanics
 - **Anchors:** `§5.p7`–`§5.p8`
-- **canonical_cluster_id:** PROPOSED: Gas vs. liquid pipeline fracture mechanics
+- **canonical_cluster_id:** "Gas pipeline brittle fracture propagation"
 - **Frame:** Speed-of-sound argument for why brittle crack arrest works in liquid pipelines (pressure wave outruns crack, decompresses tip) but not in gas pipelines (gas speed of sound far below crack-running speed, so crack tip stays fully stressed). Important for the Coast Guard students who may build gas pipelines from Alaska.
 - **Note:** this is a teaching framework rather than a case; could be indexed as a "figure" / "framework" rather than a case if the corpus taxonomy distinguishes.
 

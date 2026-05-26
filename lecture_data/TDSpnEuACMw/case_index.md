@@ -47,7 +47,7 @@ This lecture is largely systematic teaching on hydrogen cracking, residual stres
 
 ### Tekken test (Japanese railway weldability test)
 - **Anchor:** `§8.p3`
-- **canonical_cluster_id:** PROPOSED: Tekken test development for Japanese railways
+- **canonical_cluster_id:** "Tekken test development for Japanese railways"
 - **Frame in this lecture:** Japanese small-coupon weldability test (double bevel on one plate, single on the other, weld in the joint, look for cracks). Tom translates "Tekken" as "railroad" and ties the test to Japanese railway construction of the 1970s–80s.
 - **Note:** existing cluster `Tekken test development for Japanese railways` matches.
 

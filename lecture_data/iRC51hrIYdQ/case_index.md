@@ -6,7 +6,7 @@
 
 ### Bulletproof glass / Protective Armor Systems (PAS)
 - **Anchor:** `§1.p1`
-- **canonical_cluster_id:** PROPOSED: Protective Armor Systems bulletproof glass (Western Massachusetts)
+- **canonical_cluster_id:** "Protective Armor Systems bulletproof glass (Western Massachusetts)"
 - **Frame in this section:** Show-and-tell physical example. Five-and-a-quarter-inch laminated composite — three glass layers plus polycarbonate — used on presidential vehicle windows; thicker version stops an RPG.
 - **Materials/systems:** glass, polycarbonate, structural adhesive
 - **Era:** contemporary
@@ -129,7 +129,7 @@
 
 ### Keystone pipeline
 - **Anchor:** `§3.p5`
-- **canonical_cluster_id:** PROPOSED: Keystone pipeline material cost ratio
+- **canonical_cluster_id:** "Keystone pipeline material cost ratio"
 - **Frame:** Used as illustration that pipeline material is 30% of installed cost (rest is digging, inspection, rights-of-way). Not developed.
 
 ### Japanese steel industry dominance 1970s

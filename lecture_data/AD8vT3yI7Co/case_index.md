@@ -64,7 +64,7 @@ This lecture is methodological — its spine is the pressure-bonding spectrum, t
 
 ### Sulfuric acid containment in chemical plants
 - **Anchor:** `§3.p2`, `§3.p3`, `§3.p4`
-- **canonical_cluster_id:** PROPOSED: Sulfuric acid containment - graphite vs titanium clad vessel
+- **canonical_cluster_id:** "Graphite pressure vessel failure with sulfuric acid"
 - **Frame in this lecture:** Used to motivate explosive-bonded titanium-clad steel pressure vessels. Only graphite and titanium resist concentrated sulfuric acid; graphite is brittle, titanium is silver-priced. Solution: titanium thin layer explosively bonded to a thick steel backing.
 - **Materials/systems:** Concentrated sulfuric acid, graphite pressure vessels, titanium, explosive-bonded titanium-on-steel clad plate.
 - **Era:** Standard mid-to-late 20th century chemical engineering practice.
@@ -78,7 +78,7 @@ This lecture is methodological — its spine is the pressure-bonding spectrum, t
 
 ### Soviet vs. American risk culture in early human spaceflight
 - **Anchor:** `§7.p4`
-- **canonical_cluster_id:** PROPOSED: Early Soviet vs. American human spaceflight risk philosophy
+- **canonical_cluster_id:** "Early Soviet vs. American human spaceflight risk philosophy"
 - **Frame in this lecture:** Brief aside — Yuri Gagarin's three orbits vs. Shepard's sub-orbital arc. Used to color the NASA-cold-welding-funding story as embedded in a specific safety culture.
 - **Era:** 1959–1961.
 

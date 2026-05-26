@@ -120,7 +120,7 @@
 
 ### MIT brass rat (jewelry context)
 - **Anchor:** `§9.p8`
-- **canonical_cluster_id:** *not yet in aggregate* — PROPOSED: `MIT brass rat manufacturing reference`
+- **canonical_cluster_id:** "MIT brass rat manufacturing reference"
 - **Note:** Tom uses the brass rat to identify the unnamed Attleboro jewelry company. Probably not a developed case in its own right; flagged for the proposed-cluster reconciliation pass.
 
 ## Figures referenced (not cases)

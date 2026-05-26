@@ -13,7 +13,7 @@
 
 ### Upstate New York brewery (1975 consulting case)
 - **Anchor:** `§3.p4`
-- **canonical_cluster_id:** PROPOSED: `1975 upstate New York brewery consulting case` (also appears in lec11 §1.p6 worked example; may consolidate)
+- **canonical_cluster_id:** "Brewery consulting case (upstate New York)"
 - **Frame in this lecture:** Tom's first big consulting job. Used to illustrate co-location of can lines with bottling plants because air cannot be transported far.
 - **Era:** ~1975
 
@@ -50,7 +50,7 @@
 
 ### Bethlehem Steel research department (Don Bleecker [?])
 - **Anchor:** `§8.p2`
-- **canonical_cluster_id:** PROPOSED: `Bethlehem Steel research department (1970s)` (Tom's first job)
+- **canonical_cluster_id:** "Bethlehem Steel research department (1970s)"
 - **Frame in this lecture:** Tom's first boss Don Bliclet [?], VP of Research at Bethlehem Steel, source of centerline-crack samples in extruded steel rods.
 - **Era:** ~1970s
 

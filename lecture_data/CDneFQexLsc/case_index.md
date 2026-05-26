@@ -22,7 +22,7 @@ Lecture 1 is a course-introduction and externalities-framing lecture. It surface
 
 ### TATA Steel / J. J. Irani (India iron ore externality)
 - **Anchor:** `§8.p6`, `§8.p7`
-- **canonical_cluster_id:** PROPOSED: TATA Steel J.J. Irani India iron ore externality (World Economic Forum at MIT, early 1990s)
+- **canonical_cluster_id:** "TATA Steel J.J. Irani India iron ore externality (World Economic Forum at MIT, early 1990s)"
 - **Frame in this lecture:** Irani at the MIT World Economic Forum panel argues India makes steel in environmentally unfriendly ways because (a) iron ore is cheap (~$5/ton), (b) India needs foreign currency, (c) the technology to make it clean has to be paid for. Used by Tom to illustrate Maslow's-hierarchy-of-needs framing of why poor countries pollute.
 - **Era:** Early 1990s.
 
@@ -46,7 +46,7 @@ Lecture 1 is a course-introduction and externalities-framing lecture. It surface
 
 ### Neodymium-iron-boron magnet development (GM Research) and automotive starter motors
 - **Anchor:** `§8.p10`, `§8.p11`
-- **canonical_cluster_id:** PROPOSED: Neodymium-iron-boron magnet (GM Research) and starter motor miniaturization
+- **canonical_cluster_id:** "Sony Walkman and neodymium-iron-boron magnets"
 - **Frame in this lecture:** GM Research invented NdFeB magnets (~40,000 gauss vs. 10,000 for ceramic, 7,000 for Alnico). The energy-squared scaling let starter motors shrink from football-sized (15–20 lb of copper) to fist-sized.
 - **Note:** Related to canonical "Sony Walkman and neodymium-iron-boron magnets" and "GE samarium cobalt magnet development" — distinct development but same physical class. Proposed as its own cluster since the GM-Research-invention claim and starter-motor-miniaturization framing are specific.
 

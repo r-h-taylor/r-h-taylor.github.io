@@ -28,7 +28,7 @@ This lecture is largely thematic (productivity, cost economics, the structural/f
 
 ### GE Appliance Park sale
 - **Anchor:** `§3.p6`
-- **canonical_cluster_id:** `PROPOSED: 2014 GE Appliance Park sale`
+- **canonical_cluster_id:** "General Electric Appliance Park manufacturing"
 - **Frame in this lecture:** News item from the week of the lecture. Used to illustrate the economics of appliance manufacturing.
 - **Era:** 2014
 
@@ -61,7 +61,7 @@ This lecture is largely thematic (productivity, cost economics, the structural/f
 
 ### Alcoa Iceland aluminum plant
 - **Anchor:** `§4.p4`
-- **canonical_cluster_id:** `PROPOSED: Alcoa Iceland hydroelectric aluminum smelter`
+- **canonical_cluster_id:** "Alcoa Iceland hydroelectric aluminum smelter"
 - **Frame in this lecture:** Why you'd site an aluminum smelter on a remote island — to export hydroelectric power as canned electricity.
 
 ### Soviet aluminum dumping (post-Soviet breakup)
@@ -76,7 +76,7 @@ This lecture is largely thematic (productivity, cost economics, the structural/f
 
 ### De Beers diamond market control
 - **Anchor:** `§5.p5`
-- **canonical_cluster_id:** `PROPOSED: De Beers diamond market monopoly`
+- **canonical_cluster_id:** "De Beers diamond market monopoly"
 - **Frame in this lecture:** Used to illustrate externalities driving the price of a structural material.
 
 ### Lakshmi Mittal steel mill acquisitions
@@ -86,12 +86,10 @@ This lecture is largely thematic (productivity, cost economics, the structural/f
 
 ### Ned Thomas / Chris Schuh / "metallurgy is dead"
 - **Anchor:** `§5.p9`
-- **canonical_cluster_id:** `PROPOSED: Ned Thomas "metallurgy is dead" debate`
 - **Frame in this lecture:** Tom's running argument with his then-associate-head about the relevance of metals. Used to set up the "Future of Metals" paper in §5.p10.
 
 ### U.S. Steel Research talk and AISI Orlando conclave
 - **Anchor:** `§5.p10`
-- **canonical_cluster_id:** `PROPOSED: Eagar "Future of Metals" talks to U.S. Steel and AISI`
 - **Frame in this lecture:** Tom's "Future of Metals" paper (early 1990s), the invitation to give the talk at U.S. Steel Research (the first outside speaker), and the subsequent AISI presidents' conclave in Orlando. Anchors his observation about the inbred not-invented-here culture of American steel research.
 - **Era:** early 1990s
 
@@ -118,7 +116,7 @@ This lecture is largely thematic (productivity, cost economics, the structural/f
 
 ### James Watt and pump efficiency / thermodynamics
 - **Anchor:** `§6.p6`
-- **canonical_cluster_id:** `PROPOSED: James Watt and the thermodynamic origins of productivity`
+- **canonical_cluster_id:** "James Watt and the thermodynamic origins of productivity"
 - **Frame in this lecture:** The PBS "revolution of necessity" arc — wood shortage → coal → mine pumps → thermodynamics. Tom is mildly skeptical ("I don't know if I follow all that") but uses it as the productivity throughline.
 
 ### New Hampshire silicon/sapphire crystal grower (China sale)
@@ -128,12 +126,12 @@ This lecture is largely thematic (productivity, cost economics, the structural/f
 
 ### iPhone 6 sapphire cover (delayed)
 - **Anchor:** `§8.p2`
-- **canonical_cluster_id:** `PROPOSED: iPhone 6 sapphire cover (delayed launch)`
+- **canonical_cluster_id:** "iPhone 6 sapphire cover (delayed launch)"
 - **Frame in this lecture:** Current example (Sept 2014) — Apple was going to ship the iPhone 6 with a sapphire cover and didn't.
 
 ### Bell Labs optical fiber transmissivity
 - **Anchor:** `§8.p6`
-- **canonical_cluster_id:** `PROPOSED: Bell Labs optical fiber transmissivity chart`
+- **canonical_cluster_id:** "Bell Labs optical fiber transmissivity chart"
 - **Frame in this lecture:** The 8-orders-of-magnitude improvement chart from Egyptian glass to modern optical fibers. Tom passes the fibers around.
 
 ### Sony Walkman and neodymium-iron-boron magnets
@@ -150,7 +148,7 @@ This lecture is largely thematic (productivity, cost economics, the structural/f
 
 ### Nick Grant (creep mentor)
 - **Anchor:** `§9.p2`
-- **canonical_cluster_id:** `PROPOSED: Nick Grant high-temperature alloys at MIT`
+- **canonical_cluster_id:** "Nick Grant high-temperature alloys at MIT"
 - **Frame in this lecture:** Tom's teacher in creep and high-temperature materials. Cited as one of the developers of the early superalloys whose graduates went to Pratt & Whitney and GE.
 
 ## Figures referenced (not cases)

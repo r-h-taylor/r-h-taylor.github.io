@@ -21,7 +21,7 @@ This is a survey lecture on steel — history, metallurgy, processes, productivi
 
 ### Bethlehem Steel and Charles Schwab
 - **Anchor:** `§3.p6`, `§4.p1`, `§4.p3`, `§6.p4`, `§6.p5`, `§6.p9`, `§8.p1`, `§8.p4`, `§8.p6`, `§10.p3`
-- **canonical_cluster_id:** PROPOSED: Bethlehem Steel history (Schwab founding, Burns Harbor, Homer research lab)
+- **canonical_cluster_id:** "Bethlehem Steel Burns Harbor"
 - **Frame in this lecture:** Threaded through the lecture. Schwab founds Bethlehem after Carnegie fight; Bethlehem learns to roll I-beams (skyscraper enabler); Bethlehem develops hot-work tool steels; Bethlehem builds Burns Harbor in 1964 (last US private greenfield integrated mill) which nearly bankrupts the company; Tom joins in 1974 right after their peak year; Bethlehem ultimately goes bankrupt and Burns Harbor is sold for ten cents on the dollar. The Homer research lab ($600M in mid-1960s) is Tom's reference point for steel-industry technological seriousness.
 - **Era:** 1900s–early 2000s
 
@@ -39,13 +39,13 @@ This is a survey lecture on steel — history, metallurgy, processes, productivi
 
 ### Henry Bessemer's converter
 - **Anchor:** `§5.p1`, `§6.p1`, `§10.p1`
-- **canonical_cluster_id:** PROPOSED: Henry Bessemer converter development (1856)
+- **canonical_cluster_id:** "Henry Bessemer converter development (1856)"
 - **Frame in this lecture:** Bessemer figures out how to make tons of steel rather than hundreds of pounds; ~10 years of process perfection; the inflection point Tom uses to mark "the Iron Age." Note: a related but distinct entry exists in the canon ("Basic oxygen furnace introduction in Austria"); Bessemer's converter is the prior generation.
 - **Era:** 1856
 
 ### Andrew Carnegie / US Steel
 - **Anchor:** `§6.p2`, `§6.p3`, `§7.p3`, `§7.p5`, `§8.p3`, `§10.p1`
-- **canonical_cluster_id:** PROPOSED: Andrew Carnegie and US Steel founding
+- **canonical_cluster_id:** "Andrew Carnegie and US Steel founding"
 - **Frame in this lecture:** Carnegie scales Bessemer's process to economies of scale, becoming the richest man in the world; sells to JP Morgan for $480M; US Steel later represents the establishment that fails to adopt BOF and continuous casting.
 - **Era:** late 1800s–1901 sale
 
@@ -84,7 +84,7 @@ This is a survey lecture on steel — history, metallurgy, processes, productivi
 
 ### Bao Steel (China)
 - **Anchor:** `§8.p3`
-- **canonical_cluster_id:** PROPOSED: Bao Steel government-funded growth
+- **canonical_cluster_id:** "Bao Steel government-funded growth"
 - **Frame in this lecture:** Current (2016) world's largest steel company; Chinese government funded.
 
 ### ArcelorMittal acquisitions

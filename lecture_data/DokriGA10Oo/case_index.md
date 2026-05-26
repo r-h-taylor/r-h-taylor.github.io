@@ -46,13 +46,13 @@ This is a first-day lecture. The substantive teaching arc is in §6–§11: why 
 
 ### Air Force probability-of-detection studies
 - **Anchor:** `§9.p3`
-- **canonical_cluster_id:** PROPOSED: `Air Force probability of detection inspection studies (1980s)`
+- **canonical_cluster_id:** "Air Force probability of detection inspection studies (1980s)"
 - **Frame in this lecture:** Cited as the source of the curve: 95% probability of detection at ⅛", 50% at 1/16", very low in the mm range. Used to anchor the Sea Wolf inspection-gap story.
 - **Era:** 1980s.
 
 ### Ceramics fever in Japan (1985 ceramic show)
 - **Anchor:** `§6.p5`
-- **canonical_cluster_id:** PROPOSED: `Japan ceramics fever (mid-1980s)` (closely related: `1980s all-ceramic engine development initiative`, `1985-1986 ceramic engine development failure (anticipated, not realized)`, `Ceramic engine development (1990s ceramics hype)`)
+- **canonical_cluster_id:** "1984-1985 Japan Manufacturing Study"
 - **Frame in this lecture:** Tom in Tokyo 1984–85 saw the ceramic show that drew a million visitors. Used as evidence that the failure of fine ceramics to take over jet engines was not yet obvious to scientists, industry, or the public — Tom's 1992 *Welding Journal* prediction was contrarian at the time. Critical flaw size from the Ashby plot is the technical hinge.
 - **Era:** 1984–1985 in Japan; 1992 prediction.
 

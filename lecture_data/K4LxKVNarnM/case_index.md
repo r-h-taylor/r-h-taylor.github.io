@@ -82,8 +82,7 @@ This lecture is organized around the productivity revolution in steelmaking (con
 
 ### Ford Motor Company executive dining room hamburger story
 - **Anchor:** `§8.p2`
-- **canonical_cluster_id:** *partial match* — Tom tells the Bethlehem version here (strawberry the size of a peach, Lear jets to Florida), not Ford. Indexed as a Bethlehem variant.
-- **canonical_cluster_id:** PROPOSED: Bethlehem Steel executive dining room and Lear-jet golf trips
+- **canonical_cluster_id:** "Tom Eagar's steel company experience"
 - **Frame in this lecture:** Anecdotal evidence of management-class extravagance at mid-1970s Bethlehem Steel: peach-sized strawberries in the executive dining room, three Lear jets ferrying VPs to Florida golf weekends. Used to set up the structural argument about why Bethlehem's management failed.
 
 ### Attleboro gold alloy and casting operations

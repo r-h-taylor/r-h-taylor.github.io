@@ -12,7 +12,7 @@
 
 ### Andrew Carnegie and the metallurgy department at MIT
 - **Anchor:** `§2.p5`
-- **canonical_cluster_id:** PROPOSED: Andrew Carnegie wealth and steel industry founding
+- **canonical_cluster_id:** "Andrew Carnegie wealth and steel industry founding"
 - **Frame in this section:** Tom uses Carnegie as the historical anchor for steel's economic dominance and for the founding of metallurgy as a discipline in the 1880s.
 - **Era:** 1880s
 
@@ -61,7 +61,7 @@
 
 ### Edwin Drake and Titusville oil transport (1857)
 - **Anchor:** `§7.p3`
-- **canonical_cluster_id:** PROPOSED: Titusville-to-Oil City river oil transport (Drake era)
+- **canonical_cluster_id:** "Oil City river oil transport and pollution"
 - **Frame in this section:** Historical anchor for how dramatically environmental rules have changed: 1857 oil was floated down the river from Titusville to Oil City and skimmed off.
 - **Era:** 1857
 
@@ -83,7 +83,7 @@
 
 ### Colombian drug financing
 - **Anchor:** `§8.p1`
-- **canonical_cluster_id:** PROPOSED: Colombian civil war drug financing (rebel funding parallel to conflict diamonds)
+- **canonical_cluster_id:** "Colombian civil war drug financing (rebel funding parallel to conflict diamonds)"
 - **Frame in this section:** Used as the parallel case to Angolan conflict diamonds — rebels financing civil war by selling exportable contraband.
 
 ### Rhodesian chromite embargo
@@ -115,23 +115,23 @@
 
 ### 1925 Toyota sewing-machine battery prize
 - **Anchor:** `§9.p4`
-- **canonical_cluster_id:** PROPOSED: 1925 Toyota lead-acid battery replacement prize
+- **canonical_cluster_id:** "1925 Toyota lead-acid battery replacement prize"
 - **Frame in this section:** Used to make the point that lead-acid battery technology has been resistant to replacement for nearly a century, even with a $25M (1925 dollars) prize.
 - **Era:** 1925
 
 ### Pewter / Britannia metal evolution
 - **Anchor:** `§9.p5`
-- **canonical_cluster_id:** PROPOSED: Pewter to Britannia metal transition (lead-tin to tin-bismuth)
+- **canonical_cluster_id:** "Pewter to Britannia metal transition (lead-tin to tin-bismuth)"
 - **Frame in this section:** Brief reference to dinnerware lead history.
 
 ### Mercury historical use and fluorescent bulbs
 - **Anchor:** `§9.p7`
-- **canonical_cluster_id:** PROPOSED: Mercury historical use and regulatory shift; Mercury thermometer lab spill protocol change
+- **canonical_cluster_id:** "Mercury thermometer lab spill protocol change"
 - **Frame in this section:** Tom's undergraduate-lab anecdote (swept up broken thermometers) used to illustrate generational shift in mercury handling. Fluorescent bulb mercury content as the lingering exposure pathway.
 
 ### Ellingham diagram and carbon-free metal reduction
 - **Anchor:** `§10.p1`, `§10.p2`
-- **canonical_cluster_id:** PROPOSED: Ellingham diagram and carbon reduction of metal oxides (Sadoway electrochemistry program)
+- **canonical_cluster_id:** "Ellingham diagram and carbon reduction of metal oxides (Sadoway electrochemistry program)"
 - **Frame in this section:** Tom uses the Ellingham diagram (iron oxide line crossing carbon monoxide line at ~400°C, blast furnace operation at 1700°C for kinetics) to motivate the CO₂ problem and Professor Sadoway's electrochemistry program at MIT.
 
 ### Japan–US Oil and Steel Embargo and Pearl Harbor

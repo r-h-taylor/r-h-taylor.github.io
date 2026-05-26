@@ -28,13 +28,13 @@
 
 ### Robert Merton / Black-Scholes-Merton derivatives
 - **Anchor:** `§6.p10`
-- **canonical_cluster_id:** PROPOSED: Robert Merton Sloan-to-Harvard departure
+- **canonical_cluster_id:** "Robert Merton Sloan-to-Harvard departure"
 - **Frame in this lecture:** Lester Thurow's "extinct volcanoes" line, used as the punchline of Tom's "it's not what you say, it's how you say it" lesson. Not a materials case; a teaching-craft anecdote that touches on the 2008-era derivatives world tangentially.
 - **Era:** late 1980s departure; 1997 Nobel Prize
 
 ### Spot welds in automobiles (3000/2000 rhetorical figure)
 - **Anchor:** `§6.p9`
-- **canonical_cluster_id:** PROPOSED: Eagar three-thousand-spot-welds rhetorical figure
+- **canonical_cluster_id:** "Eagar three-thousand-spot-welds rhetorical figure"
 - **Frame in this lecture:** Tom's own 1989 Gatlinburg keynote where he coined "they put three thousand spot welds in the average automobile because you need two thousand good ones." Recurring rhetorical anchor in his teaching.
 - **Note:** This is a *figure*, not a case (per the figure/case distinction proposed in the §1 worked example case index).
 

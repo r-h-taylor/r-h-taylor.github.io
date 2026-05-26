@@ -6,7 +6,7 @@
 
 ### Frank Gehry's Stata Center crumpled-paper inspiration story
 - **Anchor:** `§1.p2`
-- **canonical_cluster_id:** PROPOSED: Stata Center crumpled-paper origin story
+- **canonical_cluster_id:** "Stata Center crumpled-paper origin story"
 - **Frame in this lecture:** Aside on TQM thought leaders; Stata Center as donor monument. Tom claims firsthand sourcing from the MIT chief architect.
 - **Era:** Late 1990s (Stata Center design phase)
 
@@ -25,7 +25,7 @@
 
 ### Donut-bringing LFM student factory-floor consulting case
 - **Anchor:** `§3.p2`
-- **canonical_cluster_id:** PROPOSED: LFM student donut-and-shop-floor consulting method
+- **canonical_cluster_id:** "LFM student donut-and-shop-floor consulting method"
 - **Frame in this lecture:** Voice of the customer applied at MIT's Leaders for Manufacturing program. Tom references prior telling ("the story I told you about Matt").
 
 ### Motorola Shewhart chart culture comparison
@@ -43,7 +43,7 @@
 
 ### Eugene Grace tonnage-bonus management at Bethlehem Steel
 - **Anchor:** `§7.p3`
-- **canonical_cluster_id:** PROPOSED: Eugene Grace Bethlehem Steel tonnage-bonus compensation
+- **canonical_cluster_id:** "Eugene Grace Bethlehem Steel tonnage-bonus compensation"
 - **Frame in this lecture:** Wrong-metric case study. Six of the ten top-paid US managers in the 1930s worked for Bethlehem Steel; the bonus was on tons poured, not profit.
 - **Era:** 1930s
 
@@ -84,7 +84,7 @@
 
 ### Eli Goldratt lunch / "managing the federal government" anecdote
 - **Anchor:** `§10.p9`
-- **canonical_cluster_id:** PROPOSED: Eli Goldratt MIT visit and federal-government constraint claim
+- **canonical_cluster_id:** "Eli Goldratt MIT visit and federal-government constraint claim"
 - **Frame in this lecture:** Closing critique — the Theory of Constraints author proposing to apply his single-constraint heuristic to a trillion-dollar operation.
 - **Era:** Early 1990s
 

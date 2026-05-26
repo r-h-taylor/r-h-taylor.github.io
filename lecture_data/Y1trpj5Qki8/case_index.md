@@ -6,7 +6,7 @@
 
 ### Bethlehem Steel: high-speed steel and rolled I-beams (c. 1900)
 - **Anchor:** `§2.p2`–`§2.p5`
-- **canonical_cluster_id:** PROPOSED: Bethlehem Steel high-speed steel and rolled I-beam innovations (c. 1900)
+- **canonical_cluster_id:** "Bethlehem Steel high-speed steel and rolled I-beam innovations (c. 1900)"
 - **Frame in this lecture:** Charles Schwab breaks from Carnegie, founds Bethlehem; two innovations — molybdenum high-speed steel for drill bits, and rolled (vs. riveted) I-beams enabling skyscrapers.
 - **Materials/systems:** Molybdenum-alloy tool steel; structural I-beam steel.
 - **Era:** 1900.
@@ -39,7 +39,7 @@
 
 ### MIT Materials Department fracture (Cohen, Averbach)
 - **Anchor:** `§8.p4`
-- **canonical_cluster_id:** PROPOSED: MIT Materials Department post-WWII fracture mechanics research (Cohen, Averbach)
+- **canonical_cluster_id:** "MIT Materials Department post-WWII fracture mechanics research (Cohen, Averbach)"
 - **Frame in this lecture:** Third of the three post-war fracture institutions. Tom registers his low opinion of Averbach as a 3.091 instructor.
 - **Era:** Post-WWII.
 

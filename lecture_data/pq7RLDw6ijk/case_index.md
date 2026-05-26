@@ -78,7 +78,7 @@ The lecture's center of gravity is the **SS LNG Libra tail shaft failure (1980)*
 
 ### Bethlehem Steel BOF suicide
 - **Anchor:** `§7.p1`
-- **canonical_cluster_id:** PROPOSED: Bethlehem Steel BOF retiree suicide
+- **canonical_cluster_id:** "Bethlehem Steel BOF retiree suicide"
 - **Frame in this lecture:** During Tom's tenure at Bethlehem Steel, a recently retired employee returned to the plant and dove into the BOF molten steel bath; operators saw the body spread-eagled on the surface via TV monitor. The standard practice was to "bury" one ingot from that heat.
 - **Era:** Mid-1970s.
 
@@ -90,13 +90,13 @@ The lecture's center of gravity is the **SS LNG Libra tail shaft failure (1980)*
 
 ### Bethlehem Steel forge-shop slag shovelers
 - **Anchor:** `§17.p4`
-- **canonical_cluster_id:** PROPOSED: Bethlehem Steel forge-shop slag-shoveling anecdote
+- **canonical_cluster_id:** "Bethlehem Steel forge-shop slag-shoveling anecdote"
 - **Frame in this lecture:** Two bare-chested workers shoveling ~1000°F slag in perfect alternating rhythm across a hot July forge-shop floor — thirty years of practice synchronized them so neither caught the other's throw in the face.
 - **Era:** ~mid-1970s.
 
 ### Henry Rowan and induction-melting monopoly
 - **Anchor:** `§11.p2`
-- **canonical_cluster_id:** PROPOSED: Henry Rowan Inductotherm acquisition and Rowan University endowment
+- **canonical_cluster_id:** "Henry Rowan Inductotherm acquisition and Rowan University endowment"
 - **Frame in this lecture:** MIT alumnus Henry Rowan acquired Inductotherm and Lepel — the two or three dominant induction-melting furnace builders — and consolidated near-monopoly. Wanting a university named for him, he was rebuffed by MIT and NJIT (the latter declining at $100–200M) before endowing what became Rowan University in New Jersey.
 - **Era:** Late 20th century.
 
@@ -108,7 +108,7 @@ The lecture's center of gravity is the **SS LNG Libra tail shaft failure (1980)*
 
 ### Bethlehem Steel Learjet management corruption
 - **Anchor:** `§10.p3`
-- **canonical_cluster_id:** PROPOSED: Bethlehem Steel Learjet corruption (Allentown airport)
+- **canonical_cluster_id:** "Bethlehem Steel Learjet corruption (Allentown airport)"
 - **Frame in this lecture:** Three or four Learjets parked at the Allentown airport whose primary winter function was ferrying Bethlehem Steel executives to Florida golf outings. Tom's parallel example: US Air Force Reserve C-5As flying cases of Coca-Cola to Tokyo so reservist pilots could log flight hours while shopping for cheap stereos.
 - **Era:** Mid-1970s.
 

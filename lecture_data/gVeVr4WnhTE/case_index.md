@@ -33,7 +33,7 @@
 
 ### Naval Air Rework Facility CF-30 weld repair (Vietnam War)
 - **Anchor:** `§4.p1`–`§4.p6`
-- **canonical_cluster_id:** PROPOSED: Naval Air Rework Facility CF-30 titanium vane peening (Vietnam War)
+- **canonical_cluster_id:** "Naval Air Rework Facility titanium engine case repair"
 - **Frame in this lecture:** Tom's first-summer-as-intern story. Final-inspection crack in titanium compressor vane, repair by welding and shot peening using an Almen gage, Tom asked to sign off as engineer of record. Anchors the entire §4 narrative on shot peening and the §5 transition to liability.
 - **Materials/systems:** titanium compressor vane, shot peening, Almen gage
 - **Era:** mid-1960s

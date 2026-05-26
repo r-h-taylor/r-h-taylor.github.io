@@ -8,14 +8,14 @@ This lecture is heavily technical (stress tensors, yield criteria, anisotropy, c
 
 ### MIT-Harvard merger and George Eastman's $6M donation
 - **Anchor:** `§1.p1`–`§1.p4`
-- **canonical_cluster_id:** PROPOSED: MIT-Harvard 1914-1917 merger and Eastman donation
+- **canonical_cluster_id:** "MIT-Harvard 1914-1917 merger and Eastman donation"
 - **Frame in this lecture:** Opening anecdote. The 1914–1917 attempted merger, Massachusetts Supreme Court ruling against it, MIT's bankruptcy, George Eastman's $6 million anonymous donation (Building 6), and Harvard's pivot to founding the Harvard Business School as its de facto engineering school.
 - **Materials/systems:** none — institutional history.
 - **Era:** 1872–1917.
 
 ### Indium tin oxide as transparent conductor (student project example)
 - **Anchor:** `§2.p1`–`§2.p3`
-- **canonical_cluster_id:** PROPOSED: Indium tin oxide touchscreen wear failure
+- **canonical_cluster_id:** "ATM touchscreen wear failure"
 - **Frame in this lecture:** Used as a pedagogical example for project scoping ("don't take something as complex as a display; just take the coating"). Tom notes ITO is the only material he knows that's both electrically conductive and transparent, that wear is the failure mode at ATM touchscreens, and that vapor deposition is the processing route.
 - **Materials/systems:** indium tin oxide on glass substrate.
 - **Era:** ongoing.
@@ -30,7 +30,7 @@ This lecture is heavily technical (stress tensors, yield criteria, anisotropy, c
 
 ### Superplastic titanium aerospace part (1988)
 - **Anchor:** `§3.p5`–`§3.p6`
-- **canonical_cluster_id:** PROPOSED: Superplastic titanium aerospace rib part (1988 case study)
+- **canonical_cluster_id:** "Titanium aircraft part isothermal forging case study"
 - **Frame in this lecture:** Buy-to-fly economics. A 1988 aircraft rib part with an eggcrate construction: conventional forging weight 154 kg, superplastic-formed weight ~109 kg, finish machined weight 28 kg. Conventional buy-to-fly ratio ~6:1; superplastic saves 45 kg of titanium per part. At $300/kg titanium plus ~$300/kg machining, savings dominate part economics.
 - **Materials/systems:** alpha-beta titanium alloy (likely Ti-6Al-4V).
 - **Era:** mid-1970s adoption through 1988 production part.

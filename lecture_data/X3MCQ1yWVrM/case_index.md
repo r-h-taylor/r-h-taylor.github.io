@@ -21,7 +21,7 @@ This lecture is the opening of the Spring 2018 Total Quality Improvement module.
 
 ### Stata Center and Ray Stata
 - **Anchor:** `§2.p3`
-- **canonical_cluster_id:** PROPOSED: Ray Stata and the Stata Center gift
+- **canonical_cluster_id:** "Ray Stata and the Stata Center gift"
 - **Frame in this lecture:** Mentioned to identify Ray Stata as co-author of the foreword to *A New American TQM* and as founder of Analog Devices.
 
 ### IBM customer-driven quality and salaried-workforce reduction
@@ -49,12 +49,12 @@ This lecture is the opening of the Spring 2018 Total Quality Improvement module.
 
 ### Baosteel / Chinese steel dominance
 - **Anchor:** `§5.p1`, `§5.p4`
-- **canonical_cluster_id:** PROPOSED: Baosteel and Chinese steel industry dominance
+- **canonical_cluster_id:** "Baosteel and Chinese steel industry dominance"
 - **Frame in this lecture:** Baosteel as world's largest steel company today, producing 2× US total. Used to set up the tragedy-of-the-commons argument about state-subsidized steel exports.
 
 ### Tragedy of the commons applied to global steel
 - **Anchor:** `§5.p4`
-- **canonical_cluster_id:** PROPOSED: tragedy of the commons in global steel overcapacity
+- **canonical_cluster_id:** "Steel industry excess capacity crisis"
 - **Frame in this lecture:** Government-backed steel mills export at below-cost prices, dragging the market to the lowest common denominator. References *Boston Globe* coverage of unfair Chinese steel competition from morning of lecture.
 
 ### Tom's welder-population estimate and the Welding Handbook
@@ -71,7 +71,7 @@ This lecture is the opening of the Spring 2018 Total Quality Improvement module.
 
 ### US-Japan trade and the Star Wars debt
 - **Anchor:** `§6.p4`, `§6.p7`
-- **canonical_cluster_id:** PROPOSED: Reagan Star Wars and Japanese financing of US debt
+- **canonical_cluster_id:** "Reagan Star Wars and Japanese financing of US debt"
 - **Frame in this lecture:** Reagan's SDI funded via Japanese loans; yen appreciation from 240 to 100 per dollar meant US repaid at ~40 cents on the dollar. Tom's economics-of-currency lesson.
 - **Era:** 1980s
 
@@ -107,25 +107,25 @@ This lecture is the opening of the Spring 2018 Total Quality Improvement module.
 
 ### SUBSAFE program and Navy origins of TQM terminology
 - **Anchor:** `§7.p3`, `§7.p4`
-- **canonical_cluster_id:** PROPOSED: SUBSAFE program and Navy origins of TQM
+- **canonical_cluster_id:** "SUBSAFE program and Navy origins of TQM"
 - **Frame in this lecture:** Three-year submarine production shutdown post-*Thresher*; SUBSAFE instituted with Deming's involvement; redesigned joints for what would later be called Six Sigma quality. Tom claims the Navy coined "total quality management" terminology in mid-1980s memos.
 - **Era:** 1963 origin, 1980s terminology
 
 ### *The Machine That Changed the World* and lean manufacturing
 - **Anchor:** `§7.p4`, `§8.p1`
-- **canonical_cluster_id:** PROPOSED: MIT International Motor Vehicle Program and the origin of "lean"
+- **canonical_cluster_id:** "MIT International Motor Vehicle Program and the origin of "lean"
 - **Frame in this lecture:** $5M, five-year MIT study (Womack, Jones, Roos) on the future of the automobile; origin of the term "lean manufacturing." Toyota beating GM/Ford/Chrysler on quality.
 - **Era:** late 1980s
 
 ### MIT manufacturing turf wars: Materials Processing Center vs. Lab for Manufacturing and Productivity
 - **Anchor:** `§8.p1`, `§8.p2`, `§8.p3`, `§8.p4`, `§8.p5`
-- **canonical_cluster_id:** PROPOSED: MIT Materials Processing Center vs. LMP turf war (1980s)
+- **canonical_cluster_id:** "MIT Materials Processing Center vs. LMP turf war (1980s)"
 - **Frame in this lecture:** Tom's first-person account of routing his Navy welding contract through Flemings's Materials Processing Center; giving Dave Hardt his first contract; the Suh-vs-Flemings feud; Kent Bowen's 1984 offer of the MPC directorship; the 1989 founding of Leaders for Manufacturing with $35M. Tom announces this story will continue next lecture.
 - **Era:** late 1970s to 1989
 
 ### Leaders for Manufacturing / LGO program founding
 - **Anchor:** `§2.p1`, `§6.p2`, `§8.p5`
-- **canonical_cluster_id:** PROPOSED: MIT Leaders for Manufacturing program founding (1989)
+- **canonical_cluster_id:** "MIT Leaders for Manufacturing program founding (1989)"
 - **Frame in this lecture:** 1989 founding by Kent Bowen and Tom Magnanti with $35M industrial money; now LGO. Tom was co-director "25 or 30 years ago" and learned TQM through it.
 
 ## Figures referenced (recurring numeric anchors, not cases)

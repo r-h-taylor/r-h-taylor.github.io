@@ -44,18 +44,17 @@ The aggregate v2 cluster list catalogs **Tom's** cases. The film is not Tom spea
 
 ### Welded locomotive frame fabrication
 - **Anchor:** `§6.p3`
-- **canonical_cluster_id:** PROPOSED: `1930s-1940s welded locomotive frame fabrication`
+- **canonical_cluster_id:** "Locomotive frame fabrication cost reduction"
 - **Frame in the film:** "In one shop the cost of fabricating the frame of a locomotive was cut in half by welding, and also there was a 25% saving in weight." Period-contemporary claim about welding's impact on rail manufacturing economics.
 - **Note:** Adjacent to `Locomotive frame fabrication cost reduction` in the canonical list — likely the same case, but the film's anonymous "one shop" framing makes the match tentative. Suggest editorial review to determine whether to merge with the existing cluster.
 
 ### Welded aircraft engine mount tubes
 - **Anchor:** `§6.p4`
-- **canonical_cluster_id:** PROPOSED: *no obvious match — flag for review*
 - **Frame in the film:** "On these slender tubes of steel are mounted the powerful engines that drive the plane … because they're welded." Possibly an early reference to the engine-mount tube structures characteristic of pre-WWII general aviation (Piper, Stinson, etc.).
 
 ### Shasta Dam welded penstock pipes
 - **Anchor:** `§8.p3`
-- **canonical_cluster_id:** PROPOSED: `Shasta Dam welded penstock construction`
+- **canonical_cluster_id:** "Shasta Dam welded penstock construction"
 - **Frame in the film:** Shasta Dam construction is cited as a peak achievement of the pre-WWII welded-infrastructure era. The film names the penstock pipes specifically as arc-welded.
 - **Note:** Adjacent to `Helms Project penstock` in the canonical list (a different California penstock case Tom teaches), but not the same project. Suggest this as a new cluster if Tom or the corpus refers to Shasta elsewhere.
 

@@ -48,7 +48,7 @@
 
 ### Solar cell grain boundaries (Tom's outdoor lights)
 - **Anchor:** `§5.p3`
-- **canonical_cluster_id:** PROPOSED: `Polycrystalline silicon solar cell grain boundary efficiency`
+- **canonical_cluster_id:** "Polycrystalline silicon solar cell grain boundary efficiency"
 - **Frame in this lecture:** Personal-anecdote pedagogy — Tom's solar-powered outdoor lights have visibly inch-across silicon grains, illustrating the grain-boundary efficiency loss that motivates single-crystal silicon in higher-end cells.
 
 ### Charles Street MBTA station welding procedure (1910 steel)
@@ -93,7 +93,7 @@
 
 ### Reggie Pelloux (MIT fatigue/fracture lineage)
 - **Anchor:** `§9.p3`
-- **canonical_cluster_id:** PROPOSED: `Professor Reggie Pelloux MIT fatigue and fracture mentorship`
+- **canonical_cluster_id:** "Professor Reggie Pelloux MIT fatigue and fracture mentorship"
 - **Frame in this lecture:** Tom credits Pelloux (ScD MIT, then Boeing, then MIT faculty) as his fatigue-and-fracture teacher. Frames Boeing's fracture-mechanics culture.
 
 ## Figures referenced (recurring numeric anchors, not cases)

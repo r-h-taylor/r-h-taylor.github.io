@@ -107,12 +107,12 @@
 
 ### Carbon nanotubes structural applications (overpromised research)
 - **Anchor:** `§3.p3`–`§3.p4`
-- **canonical_cluster_id:** PROPOSED: Graphene commercialization hype (Rice/UT Austin/Manchester)
+- **canonical_cluster_id:** "Graphene commercialization hype (Rice/UT Austin/Manchester)"
 - **Frame:** Dave's contemporary cause célèbre example. Graphene as a solution looking for a problem; difficult to produce, difficult to stabilize, no clear processing route. Research centers at Rice, UT Austin, Manchester. Not the same case as the existing "Carbon nanotubes structural applications" cluster, though closely related. Proposed as new canonical cluster.
 
 ### Akamai
 - **Anchor:** `§9.p2`
-- **canonical_cluster_id:** PROPOSED: Akamai IPO and MIT math professor billionaire
+- **canonical_cluster_id:** "Akamai IPO and MIT math professor billionaire"
 - **Frame:** Tom's counter-example of legitimate technology commercialization; he served on the engineering council when Akamai went public.
 
 ## Figures referenced

@@ -41,7 +41,7 @@
 
 ### Los Angeles class life extension
 - **Anchor:** `§7.p4`
-- **canonical_cluster_id:** PROPOSED: Los Angeles class submarine life extension hull evaluation
+- **canonical_cluster_id:** "Los Angeles class submarine life extension hull evaluation"
 - **Frame in this lecture:** Brief reference. Hull condition is good; lifetime limited by internal components and rate of technological advance.
 - **Materials/systems:** submarine hull
 - **Era:** unspecified

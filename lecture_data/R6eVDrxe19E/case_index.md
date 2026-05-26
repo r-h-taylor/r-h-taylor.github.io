@@ -66,7 +66,7 @@
 
 ### Navy PH stainless steel hydrofoil components
 - **Anchor:** `§8.p2`
-- **canonical_cluster_id:** PROPOSED: Navy PH stainless steel hydrofoil rudder/propeller
+- **canonical_cluster_id:** "Navy PH stainless steel hydrofoil rudder/propeller"
 - **Frame in this lecture:** Navy used precipitation-hardened stainless on hydrofoil rudders or propellers — high strength, lightweight, 180 ksi. Aluminum hull, PH stainless in the drive end. "We created a few problems back there" — implies a welding consulting episode not developed here.
 - **Materials/systems:** PH stainless (Cu/Ti/Al precipitates), 180 ksi yield
 

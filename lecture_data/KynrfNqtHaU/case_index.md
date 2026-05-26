@@ -15,13 +15,13 @@ This lecture surveys the history and structure of engineering codes and standard
 
 ### Hammurabi code as oldest written rules
 - **Anchor:** `§3.p3`
-- **canonical_cluster_id:** PROPOSED: Hammurabi code (oldest written rules)
+- **canonical_cluster_id:** "Hammurabi code (oldest written rules)"
 - **Frame in this lecture:** Historical anchor — 1750 BC, 282 laws, in the Louvre since rediscovery c. 1900. Used to set up "code" as a category older than industrial engineering.
 - **Era:** ~1750 BC.
 
 ### Hippocratic Oath
 - **Anchor:** `§3.p6`
-- **canonical_cluster_id:** PROPOSED: Hippocratic Oath as professional code
+- **canonical_cluster_id:** "Hippocratic Oath as professional code"
 - **Frame in this lecture:** Brief mention as fifth-century BC professional rule set. Contrast case to Hammurabi.
 - **Era:** fifth century BC.
 

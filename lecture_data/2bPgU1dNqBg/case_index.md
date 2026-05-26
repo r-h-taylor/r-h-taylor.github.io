@@ -6,20 +6,20 @@
 
 ### Why no 3D printing of metals? (the Technology Review question)
 - **Anchor:** `§2.p2` (question posed), §§6-8 (technical reasons), §§9-10 (Navy electron-beam approach)
-- **canonical_cluster_id:** PROPOSED: Technology Review interview on metal 3D printing (2016)
+- **canonical_cluster_id:** "Technology Review interview on metal 3D printing (2016)"
 - **Frame in this lecture:** Tom uses a media-interview question as the spine for a full lecture on why metals resist 3D printing — mechanical (volume change, residual stress), surface (oxidation, surface tension), and heat-transfer reasons — and his own Navy electron-beam proposal as the would-be solution.
 
 ## Cases referenced
 
 ### Stereolithography invention (Chuck Hull, mid-1980s)
 - **Anchor:** `§3.p1`
-- **canonical_cluster_id:** PROPOSED: Stereolithography invention (Chuck Hull, mid-1980s)
+- **canonical_cluster_id:** "Stereolithography invention (Chuck Hull, mid-1980s)"
 - **Frame in this lecture:** First 3D printing technology — liquid polymer + two intersecting UV lasers. Used as origin point.
 - **Note:** Tom misattributes inventor's location as "University of Texas." Actual inventor: Chuck Hull at 3D Systems.
 
 ### Cima-Sachs MIT 3D printing
 - **Anchor:** `§3.p2`, `§3.p3`
-- **canonical_cluster_id:** PROPOSED: Cima-Sachs MIT 3D printing invention (late 1980s)
+- **canonical_cluster_id:** "Cima-Sachs MIT 3D printing invention (late 1980s)"
 - **Frame in this lecture:** Coined the term "3D printing." Adapted dot-matrix printheads to deposit ceramic slurry. First parts were ceramic molds for artificial hips.
 - **Materials/systems:** ceramic slurry, dot-matrix printhead, $300 hardware budget
 - **Era:** late 1980s
@@ -37,7 +37,7 @@
 
 ### Navy electron-beam 3D printing of submarine parts
 - **Anchor:** `§4.p3`, `§9.p1`-`§9.p4`, `§10.p3`-`§10.p4`
-- **canonical_cluster_id:** PROPOSED: Navy multi-megavolt electron beam 3D printing program (early 1990s)
+- **canonical_cluster_id:** "Naval Surface Warfare Center particle beam weapon development"
 - **Frame in this lecture:** Post-1992 pivot: Navy particle-beam weapons program (originally anti-missile) was repurposed to consider 3D printing of capital-ship spares — propellers, tail shafts, sea-water valves. Tom's proposal: 500 lb/hr deposition rate with Grüneisen-effect shock-wave stress relief. Never funded — would have required 10 billion dollars and a four-story-deep x-ray-shielded pit.
 - **Materials/systems:** nickel-aluminum-vanadium superalloy, aluminum-bronze (propellers)
 - **Era:** 1992-onward
@@ -55,7 +55,7 @@
 
 ### 1980s Japanese ceramics fever
 - **Anchor:** `§5.p3`
-- **canonical_cluster_id:** PROPOSED: 1984-85 Japan sabbatical ceramics fever observation
+- **canonical_cluster_id:** "1984-1985 Japan Manufacturing Study"
 - **Frame in this lecture:** Tom's 1984-85 sabbatical in Tokyo coincided with peak Japanese enthusiasm for structural ceramics ("ceramics fever," Shinjuku showcase). Used to introduce the broader "ceramics will replace metals" rhetoric of the 1980s and frame why it failed.
 - **Related canonical clusters:** 1984-1985 Japan Manufacturing Study; 1980s all-ceramic engine development initiative
 

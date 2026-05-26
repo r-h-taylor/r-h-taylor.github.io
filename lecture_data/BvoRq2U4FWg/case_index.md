@@ -82,7 +82,7 @@ This lecture is built around the conceptual arc from Griffith's 1925 energy crit
 
 ### Brittle centrifuge sample
 - **Anchor:** `§5.p3`
-- **canonical_cluster_id:** PROPOSED: `Brittle centrifuge sample (classroom demo)`
+- **canonical_cluster_id:** "Duplex stainless steel centrifuge brittle failure"
 - **Frame:** Tom references "my brittle centrifuge" passed around in a previous lecture. Likely maps to `Duplex stainless steel centrifuge brittle failure` or `Ethanol production centrifuge disc failures` in the canon — both plausible. Flag for reconciliation.
 
 ## Figures referenced

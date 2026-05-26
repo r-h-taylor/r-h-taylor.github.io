@@ -8,7 +8,7 @@ This lecture is primarily a TQM / management-pedagogy session. Most "cases" in t
 
 ### Honeywell plastic film plant — the mad shitter
 - **Anchor:** `§6.p1`–`§6.p3`
-- **canonical_cluster_id:** `PROPOSED: Honeywell New Jersey facility morale and management crisis`
+- **canonical_cluster_id:** "Honeywell New Jersey facility morale and management crisis"
 - **Frame in this lecture:** LFM/LGO student internship in a Honeywell-acquired mom-and-pop plastic film operation. Used to teach the principle that worker dysfunction (extreme: smearing excrement on restroom walls) is a symptom of unheard frustration, addressable through low-cost engagement (donut Fridays, "what can I do to help you?").
 - **Era:** Early 1990s.
 - **Materials/systems:** Plastic film manufacturing, $3–4M extruder.
@@ -51,7 +51,7 @@ This lecture is primarily a TQM / management-pedagogy session. Most "cases" in t
 
 ### Motorola supplier consultation
 - **Anchor:** `§5.p9`
-- **canonical_cluster_id:** `PROPOSED: Motorola LFM technology consultation` — or possibly matches `Motorola Boynton Beach pager manufacturing` / `Motorola control chart implementation variance`
+- **canonical_cluster_id:** "Motorola LFM technology consultation"
 - **Frame:** Tom went to Motorola expecting to teach them better technology; found they already had superior technology and needed help managing people. One sentence only.
 
 ## Figures referenced (not cases)

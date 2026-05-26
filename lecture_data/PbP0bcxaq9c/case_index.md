@@ -6,7 +6,7 @@
 
 ### Future-of-metals paper (1991 *Welding Journal* article)
 - **Anchor:** `§1.p2`, `§1.p3`, `§1.p9`, `§2.p1`
-- **canonical_cluster_id:** PROPOSED: 1991 future-of-metals Welding Journal article
+- **canonical_cluster_id:** "1991 future-of-metals Welding Journal article"
 - **Frame in this lecture:** Tom's published argument that metals were not dying, presented against the ceramics/composites/superconductor hype of the late 1980s. Returned to throughout §1 and §2 as the framing device for the productivity argument.
 - **Era:** 1991
 
@@ -61,7 +61,7 @@
 
 ### Cyril Smith — humanities course on the history of materials
 - **Anchor:** `§4.p2`
-- **canonical_cluster_id:** PROPOSED: Cyril Smith humanities course on materials history
+- **canonical_cluster_id:** "Cyril Smith humanities course on materials history"
 - **Frame in this lecture:** Tom's junior-year humanities paper on the hardening of steel, taught by Cyril Smith (former University of Chicago metallurgist who became MIT institute professor in humanities, archaeology of materials).
 - **Era:** Tom's undergraduate years (late 1960s)
 

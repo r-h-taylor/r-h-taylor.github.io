@@ -6,14 +6,14 @@
 
 ### Honeywell aircraft brake leasing (power-by-the-hour)
 - **Anchor:** `§1.p1`
-- **canonical_cluster_id:** PROPOSED: Honeywell aircraft brake leasing economics
+- **canonical_cluster_id:** "Honeywell aircraft brake leasing economics"
 - **Frame in this lecture:** Symbiotic incentive structure — the brake manufacturer bears replacement cost, so it has incentive to develop longer-lasting brakes; airline pays a fixed per-landing fee.
 - **Materials/systems:** aircraft brakes (carbon-carbon composites implied)
 - **Era:** contemporary (Spring 2016 framing)
 
 ### Aircraft engine power-by-the-hour leasing
 - **Anchor:** `§1.p2`
-- **canonical_cluster_id:** PROPOSED: aircraft engine power-by-the-hour leasing model
+- **canonical_cluster_id:** "aircraft engine power-by-the-hour leasing model"
 - **Frame in this lecture:** Engines leased from GE / Rolls-Royce; lessor maintains, airline pays per operating hour. Same incentive structure as brakes.
 - **Era:** contemporary
 
@@ -61,7 +61,7 @@
 
 ### Sachs polycrystalline silicon ribbon (1366 Technologies)
 - **Anchor:** `§5.p9`
-- **canonical_cluster_id:** PROPOSED: Sachs polycrystalline silicon ribbon solar cell venture
+- **canonical_cluster_id:** "Sachs polycrystalline silicon ribbon solar cell venture"
 - **Frame in this lecture:** Emanuel Sachs (MIT, co-coiner of "3D printing") founded a company that pulled silicon ribbon directly from the melt using carbon-fiber wires for solar-cell manufacture. Was projected to take over the solar-cell market 25 years ago; company subsequently bankrupt.
 - **Materials/systems:** polycrystalline silicon ribbon, carbon fiber wire
 

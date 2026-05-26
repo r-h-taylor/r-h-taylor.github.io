@@ -8,7 +8,7 @@ This lecture is unusual in that the first half (§1–§4) is an extended autobi
 
 ### Lester Thurow at MIT Sloan and the sound-bite revelation (1988)
 - **Anchor:** `§3.p1`, `§4.p1`–`§4.p8`
-- **canonical_cluster_id:** PROPOSED: Lester Thurow MIT Sloan Senior Executives program (1988)
+- **canonical_cluster_id:** "Lester Thurow MIT Sloan Senior Executives program (1988)"
 - **Frame in this lecture:** Tom's transformative encounter at the MIT Sloan Senior Executives program — the source of his sound-bite-driven teaching style. Used here to motivate the student-presentation assignment in §1–§2.
 - **Era:** 1988
 - **Note:** This is autobiography-as-pedagogy. May recur elsewhere in the corpus when Tom discusses communication or his own teaching philosophy.
@@ -20,7 +20,7 @@ This lecture is unusual in that the first half (§1–§4) is an extended autobi
 
 ### Spot welding sound-bite anecdote (3,000 welds for 2,000 good ones)
 - **Anchor:** `§4.p8`
-- **canonical_cluster_id:** PROPOSED: Automotive spot welding 3,000-for-2,000 sound bite (~1990)
+- **canonical_cluster_id:** "Automobile spot welding quality"
 - **Frame in this lecture:** Tom's example of a sound bite with content — used to illustrate the Thurow lesson. Quoted back to him by a stranger at a welding conference a year later. Likely connects to cluster "Automotive spot welding quality" but is delivered specifically as a *rhetorical-form* anecdote, not as a forensic teaching case.
 
 ### California ternplate gas tank (early 2000s emissions regulations)

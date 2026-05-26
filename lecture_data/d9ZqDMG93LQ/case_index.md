@@ -63,7 +63,7 @@
 
 ### Pineapple juice can (steel body, aluminum top)
 - **Anchor:** `§6.p5`, `§6.p7`, `§6.p8`
-- **canonical_cluster_id:** PROPOSED: Pineapple juice composite can (steel/aluminum)
+- **canonical_cluster_id:** "Pineapple juice composite can (steel/aluminum)"
 - **Frame in this lecture:** Materials-competition case demonstrating that composite metal cans solve a corrosion-resistance/cost optimization. Pull-tab needs aluminum's low toughness; sidewalls and bottom benefit from steel's lower cost given pineapple's mild acidity is tolerable on aluminum only intermittently.
 - **Materials/systems:** tinplate steel, 3000-series aluminum
 - **Note:** May appear elsewhere in the corpus under a different framing; flag for canon reconciliation.

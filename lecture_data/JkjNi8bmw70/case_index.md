@@ -20,13 +20,13 @@ This lecture is primarily a history-of-engineering and history-of-MIT survey. Mo
 
 ### US share of world steel production (1945: 75%, ~1970: 25%)
 - **Anchor:** `§10.p1`
-- **canonical_cluster_id:** PROPOSED: `US share of world steel production (1945–1970)`
+- **canonical_cluster_id:** "US Steel industry decline"
 - **Frame in this lecture:** Tom's setup for the Sputnik-as-wake-up-call narrative. The 75%-to-25% collapse over twenty-five years is a framing statistic Tom uses across multiple lectures to motivate discussions of the US steel industry decline and Japanese competition.
 - **Note:** Figure, not case. May warrant promotion to the figures index when the figures-vs-cases taxonomy is consolidated.
 
 ### Materials engineering share of practicing engineers (~60%)
 - **Anchor:** `§4.p2`
-- **canonical_cluster_id:** PROPOSED: `Materials engineering share of practicing engineers`
+- **canonical_cluster_id:** "Materials engineering share of practicing engineers"
 - **Frame in this lecture:** Tom cites a study finding ~25% of practicing engineers are directly doing materials work and another ~35% indirectly — for ~60% total. Used to motivate the Course Three / materials subgroup point in §4.p3.
 - **Note:** Figure, not case.
 

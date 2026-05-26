@@ -15,7 +15,7 @@ This lecture is principally a survey of stainless steel grades, with carbon/allo
 
 ### Sub-Zero refrigerator hinge failure
 - **Anchor:** `§7.p2`
-- **canonical_cluster_id:** `PROPOSED: Sub-Zero refrigerator hinge failure (303 stainless misuse)`
+- **canonical_cluster_id:** "Sub-Zero refrigerator hinge failure"
 - **Frame in this lecture:** Illustrates the consequence of 303 vs. 304 mix-up. Manufacturer used 303 (sulfur-bearing, non-weldable) instead of 304 for a pin-to-plate weld. Cracked at the weld, plated over, doors fell off in service. ~$7M in repairs.
 - **Materials/systems:** 303 vs. 304 austenitic stainless steel; brazing-welding application
 - **Era:** Unspecified
@@ -67,12 +67,12 @@ This lecture is principally a survey of stainless steel grades, with carbon/allo
 
 ### Steel vs. aluminum automobiles (US vs. Europe market split)
 - **Anchor:** `§1.p5`
-- **canonical_cluster_id:** `PROPOSED: Steel vs. aluminum auto markets US vs. Europe`
+- **canonical_cluster_id:** "Steel vs. aluminum auto markets US vs. Europe"
 - **Frame in this lecture:** Fuel-price economics would favor aluminum cars in Europe, but European manufacturers must build for the US market where fuel prices favor steel. Illustrates how exporting drives materials selection.
 
 ### Hadfield's manganese steel (prison bars application)
 - **Anchor:** `§8.p5`
-- **canonical_cluster_id:** `PROPOSED: Hadfield's manganese steel — prison bars`
+- **canonical_cluster_id:** "Hadfield's manganese steel — prison bars"
 - **Frame in this lecture:** 12-13% Mn steel that work-hardens during machining, making it nearly impossible to saw or file. Used historically for prison bars. Distinct alloy class from the 200-series stainless steels Tom is discussing.
 
 ## Figures and recurring statistics
