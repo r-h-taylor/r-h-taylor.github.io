@@ -158,6 +158,9 @@ function attrLine(q) {
       ? q.quoted_source : "another source";
     return `&mdash; ${escapeHtml(src)}, quoted by Eagar`;
   }
+  if (q.attribution === "pending" || q.attribution === "ambiguous") {
+    return '<span style="color:#888">attribution pending</span>';
+  }
   return "&mdash; T.W. Eagar";
 }
 
