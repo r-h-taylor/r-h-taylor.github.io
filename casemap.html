@@ -67,7 +67,6 @@
     position: absolute;
     top: 16px;
     left: 16px;
-    cursor: move;
     background: rgba(255,255,255,0.92);
     border: 1px solid var(--border);
     padding: 10px 14px;
@@ -221,6 +220,7 @@ class="site-title">Materials Engineering: A Narrative Pedagogy</a>
       <a href="lectures/">Lectures</a>
       <a href="cases/">Cases</a>
       <a href="casemap.html">Case Map</a>
+      <a href="quotes.html">Quotes</a>
       <a href="search.html">Search</a>
       <a href="about.html">About</a>
     </nav>
@@ -278,39 +278,6 @@ const COLORS = {
 };
 
 let allCases = [];
-
-function makeDraggable(panel) {
-  if (!panel) return;
-  let dragging = false, offX = 0, offY = 0;
-  panel.addEventListener("mousedown", (e) => {
-    const t = e.target.tagName.toLowerCase();
-    if (t === "input" || t === "label" || t === "select") return;
-    dragging = true;
-    const vis = document.getElementById("casemap-vis");
-    const vr = vis.getBoundingClientRect();
-    const pr = panel.getBoundingClientRect();
-    offX = e.clientX - pr.left;
-    offY = e.clientY - pr.top;
-    panel.style.position = "absolute";
-    panel.style.bottom = "auto";
-    panel.style.right = "auto";
-    panel.style.left = (pr.left - vr.left) + "px";
-    panel.style.top = (pr.top - vr.top) + "px";
-    e.preventDefault();
-  });
-  window.addEventListener("mousemove", (e) => {
-    if (!dragging) return;
-    const vis = document.getElementById("casemap-vis");
-    const vr = vis.getBoundingClientRect();
-    let nx = e.clientX - vr.left - offX;
-    let ny = e.clientY - vr.top - offY;
-    nx = Math.max(0, Math.min(nx, vr.width - panel.offsetWidth));
-    ny = Math.max(0, Math.min(ny, vr.height - panel.offsetHeight));
-    panel.style.left = nx + "px";
-    panel.style.top = ny + "px";
-  });
-  window.addEventListener("mouseup", () => { dragging = false; });
-}
 
 async function init() {
   const data = await d3.json("data/casemap_data.json");
@@ -498,7 +465,6 @@ function escapeHtml(s) {
 window.addEventListener("resize", () => {
   if (allCases.length) render();
 });
-makeDraggable(document.querySelector(".casemap-controls"));
 init();
 </script>
 </body>
