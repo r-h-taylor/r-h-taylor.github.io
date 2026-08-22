@@ -31,7 +31,7 @@ class="site-title">Materials Engineering: A Narrative Pedagogy</a>
 
 <h2>The layered architecture</h2>
 
-<p>The corpus is produced through a layered editorial pipeline. Layers 1, 2, and 3 represent successive editorial passes; Layer 4 captures scholarly knowledge that supplements what Eagar said.</p>
+<p>The corpus is produced through a three-layer editorial pipeline: the documentary baseline, a cleanup edit, and a readable edition. Each layer is preserved and citable.</p>
 
 <p><strong>Layer 1 — Documentary baseline.</strong> The original YouTube auto-caption transcripts, unmodified. Layer 1 is the documentary baseline against which the editorial layers were produced. It contains the raw captioner output including all mistranscriptions, timing artifacts, and proper-noun mishearings. Layer 1 is not redistributed with this archive — the auto-captions remain available on YouTube. Readers wishing to verify a specific passage against source can use the "Watch on YouTube" link on each lecture page.</p>
 
@@ -39,7 +39,6 @@ class="site-title">Materials Engineering: A Narrative Pedagogy</a>
 
 <p><strong>Layer 3 — Editorial edit.</strong> Readable edition with section structure, smoothed self-corrections, removed false starts, physical-object teaching moves rendered as italicized stage directions in brackets, and soft reordering within sections where the speaker delivered content out of order during real-time teaching. Every editorial judgment is logged in <code>editorial_register.md</code>. Layer 3 prose is the default reading view.</p>
 
-<p><strong>Layer 4 — Editorial annotations.</strong> Scholarly knowledge supplementing what Eagar said — identifications of vague references, factual corrections, and contextual notes. Each annotation is anchored to a specific Layer 3 paragraph and cites its sources. Unlike the lower layers, Layer 4 is not Eagar's speech; it is the curator's scholarly apparatus. Layer 4 entries live in per-lecture <code>layer4.md</code> files and are flagged in the reading view with a ✦ marker next to annotated paragraphs.</p>
 
 <h2>The constraint set</h2>
 
@@ -48,7 +47,7 @@ class="site-title">Materials Engineering: A Narrative Pedagogy</a>
   <li>Add new sentences in the speaker's voice.</li>
   <li>Reorder content across section boundaries.</li>
   <li>Merge cases the speaker kept separate, or split cases he handled as one.</li>
-  <li>Silently correct factual errors made on tape. Caption mishearings (the auto-captioner rendering "Forward" as "Ford," "Mesabi" as "Wasabi") are corrected silently against audio; the speaker's genuine errors are preserved with bracketed corrections; the speaker's substantive misstatements are preserved and addressed in Layer 4.</li>
+  <li>Silently correct factual errors made on tape. Caption mishearings (the auto-captioner rendering "Forward" as "Ford," "Mesabi" as "Wasabi") are corrected silently against audio; the speaker's genuine errors are preserved with bracketed corrections; the speaker's substantive misstatements are preserved as spoken.</li>
 </ul>
 
 <h2>How to read</h2>
@@ -88,7 +87,7 @@ class="site-title">Materials Engineering: A Narrative Pedagogy</a>
 
 <h2>Editorial responsibility</h2>
 
-<p>The corpus is curated by <a href="https://scholar.google.com/citations?user=N6dbY7QAAAAJ&hl=en">Richard H. Taylor, PhD</a>, former postdoc in Prof. Eagar's laboratory at MIT. Editorial corrections and scholarly annotations are recorded in <code>layer4.md</code> and in corpus-level audit files.</p>
+<p>The corpus is curated by <a href="https://scholar.google.com/citations?user=N6dbY7QAAAAJ&hl=en">Richard H. Taylor, PhD</a>, former postdoc in Prof. Eagar's laboratory at MIT. Editorial decisions are recorded in the per-lecture <code>editorial_register.md</code> and in corpus-level audit files.</p>
 
 <h2>Acknowledgments</h2>
 
@@ -96,12 +95,12 @@ class="site-title">Materials Engineering: A Narrative Pedagogy</a>
 
 <h2>Pipeline and methodology</h2>
 
-<p>Layers 2 and 3 were produced initially by a two-call pipeline using Anthropic's Claude Opus 4.7, anchored to a hand-edited worked example (the first section of lecture <code>SMS_F2014_01</code>) that defines the editorial standard and subsequently reviewed by the editor. Layer 4 annotations are authored by hand. The pipeline, prompts, validation rules, and worked example are released as open-source software alongside the corpus.</p>
+<p>Layers 2 and 3 were produced initially by a two-call pipeline using Anthropic's Claude Opus 4.7, anchored to a hand-edited worked example (the first section of lecture <code>SMS_F2014_01</code>) that defines the editorial standard and subsequently reviewed by the editor. The pipeline, prompts, validation rules, and worked example are released as open-source software alongside the corpus.</p>
 
 </article>
   </main>
   <footer class="site-footer">
-    <p>The teaching archive of Thomas W. Eagar (1949–2022), MIT. A four-layer searchable corpus. Editorial conventions: <a href="/about.html">methodology</a>. Cite the corpus and the methods paper together — see About for details.</p>
+    <p>The teaching archive of Thomas W. Eagar (1949–2022), MIT. A three-layer searchable corpus. Editorial conventions: <a href="/about.html">methodology</a>. Cite the corpus and the methods paper together — see About for details.</p>
   </footer>
 </body>
 </html>
