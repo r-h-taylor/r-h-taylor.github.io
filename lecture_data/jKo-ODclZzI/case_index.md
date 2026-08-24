@@ -10,7 +10,7 @@ None of this segment is built around a named industrial-historical or forensic c
 
 ### Stout and Doty welding procedure reference
 - **Anchor:** `§1.p1`
-- **canonical_cluster_id:** "Stout and Doty welding procedure handbook"
+- **canonical_cluster_id:** PROPOSED: Stout and Doty welding procedure handbook
 - **Frame in this section:** Tom describes using the Stout and Doty welding handbook as the reference work he turns to when consulting clients call asking how to weld something. Used to make the point that the institutional knowledge for older welding procedures is preserved in the reference literature, even when the in-house procedure has been lost.
 - **Note:** This is a reference work / consulting-practice anecdote rather than a discrete case. May recur across the corpus as Tom's standard reference; search for "Stout and Doty" / "Stout Doty" across other lectures.
 
@@ -22,20 +22,20 @@ None of this segment is built around a named industrial-historical or forensic c
 
 ### Charlie Brooks's textbook (martensite nose at 10⁻⁸ seconds)
 - **Anchor:** `§4.p2`
-- **canonical_cluster_id:** "Charlie Brooks textbook martensite cooling curve"
+- **canonical_cluster_id:** PROPOSED: Charlie Brooks textbook martensite cooling curve
 - **Frame in this section:** Tom cites Brooks's book as the only textbook he's seen that actually plots the nose of the martensite transformation curve down to 10⁻⁸ seconds. Used as a pedagogical reference for the diffusionless / displacement nature of the martensitic transformation.
 - **Note:** Bibliographic reference, not a case. Promote to a "References cited" index if one exists at corpus level.
 
 ### Shape memory alloys (nickel-titanium)
 - **Anchor:** `§4.p2`
-- **canonical_cluster_id:** "Shape memory alloy applications (nitinol braces)"
+- **canonical_cluster_id:** PROPOSED: Shape memory alloy applications (nitinol braces)
 - **Frame in this section:** Tom uses shape memory alloys — specifically nickel-titanium wire used in dental braces — as a non-ferrous example of a martensitic transformation. Used to broaden the point that martensite is not only a steel phenomenon and not only a problem.
 - **Materials/systems:** Nitinol (nickel-titanium); orthodontic application.
 - **Note:** Brief teaching aside, not a developed case. May recur in lectures touching biomedical materials or phase transformations.
 
 ### Hammer head shards in the eye
 - **Anchor:** `§3.p1`
-- **canonical_cluster_id:** Mushroomed hammer head eye injuries
+- **canonical_cluster_id:** "Mushroomed hammer head eye injuries"
 - **Frame in this section:** Tom uses the brittle-surface / ductile-core argument for surface hardening, and notes in passing that people routinely send hammer fragments into their eyes — a recurring safety theme in his teaching.
 - **Note:** Match to canonical cluster "Mushroomed hammer head eye injuries" from the aggregate.
 

@@ -110,7 +110,7 @@
 
 ### Joel Clark Ford composite truck bed coal mine trial
 - **Anchor:** `§2.p4`
-- **canonical_cluster_id:** "Joel Clark Ford composite truck bed coal mine trial"
+- **canonical_cluster_id:** PROPOSED: Joel Clark Ford composite truck bed coal mine trial
 - **Note:** Matches the existing aggregate cluster "Fiberglass truck bed trial at coal mine" — see entry above; not a new proposed case, just additional attribution to Joel Clark (MIT colleague) and Ford.
 
 ## Figures referenced

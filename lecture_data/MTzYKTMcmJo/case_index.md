@@ -13,25 +13,25 @@ The aggregate v2 cluster list catalogs **Tom's** cases. The film is not Tom spea
 
 ### WWI Army truck and vehicle repair
 - **Anchor:** `§1.p2–p3`
-- **canonical_cluster_id:** `WWI Army truck and vehicle repair`
+- **canonical_cluster_id:**"WWI Army truck and vehicle repair"
 - **Frame in the film:** Dramatized vignette of soldiers admiring an arc-welded repair on an Army vehicle. The film cites Army adoption of arc welding for vehicle repair as the process's first significant institutional foothold.
 - **Note:** This is the film's framing of a topic Tom treats independently in his own teaching. The film is not the source of Tom's case but may be useful as period context.
 
 ### WWI Navy ship reconditioning
 - **Anchor:** `§1.p4–p5`
-- **canonical_cluster_id:** `WWI Navy ship reconditioning`
+- **canonical_cluster_id:**"WWI Navy ship reconditioning"
 - **Frame in the film:** Dramatized vignette of sailors repairing a ship's pump that had been sabotaged. The film cites this as the Navy's parallel adoption of arc welding.
 
 ### High-pressure refinery vessels with shielded arc welding
 - **Anchor:** `§7.p1`
-- **canonical_cluster_id:** `High-pressure refinery vessels with shielded arc welding`
+- **canonical_cluster_id:**"High-pressure refinery vessels with shielded arc welding"
 - **Frame in the film:** "In 1930, with the introduction of shielded arc welding, the oil men turned to welded construction for refinery pressure vessels, by which in some cases they were able to maintain pressures up to 5,000 pounds per square inch." This is a period-contemporary statement of a historical transition Tom teaches.
 - **Materials/systems:** shielded-metal-arc welding, refinery pressure vessels.
 - **Era:** 1930 onward.
 
 ### Gasoline yield improvement via welded refinery towers
 - **Anchor:** `§7.p2`
-- **canonical_cluster_id:** `Gasoline yield improvement via welded refinery towers`
+- **canonical_cluster_id:**"Gasoline yield improvement via welded refinery towers"
 - **Frame in the film:** Welded refinery towers doubled gasoline yield per barrel and improved octane. The film's contemporaneous economic argument connecting welded refining to the cost and performance of motor fuel.
 
 ## Topical content not matched to existing canonical clusters
@@ -54,7 +54,7 @@ The aggregate v2 cluster list catalogs **Tom's** cases. The film is not Tom spea
 
 ### Shasta Dam welded penstock pipes
 - **Anchor:** `§8.p3`
-- **canonical_cluster_id:** "Shasta Dam welded penstock construction"
+- **canonical_cluster_id:** PROPOSED: Shasta Dam welded penstock construction
 - **Frame in the film:** Shasta Dam construction is cited as a peak achievement of the pre-WWII welded-infrastructure era. The film names the penstock pipes specifically as arc-welded.
 - **Note:** Adjacent to `Helms Project penstock` in the canonical list (a different California penstock case Tom teaches), but not the same project. Suggest this as a new cluster if Tom or the corpus refers to Shasta elsewhere.
 

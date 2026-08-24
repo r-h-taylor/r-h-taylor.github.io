@@ -36,12 +36,12 @@ This lecture is built around one central case — the Blackhawk tail rotor washe
 
 ### Hydrogen diffusion timing failure at jet engine company
 - **Anchor:** `§4.p3`
-- **canonical_cluster_id:** "Jet engine company hydrogen bake-out timing failure"
+- **canonical_cluster_id:** PROPOSED: Jet engine company hydrogen bake-out timing failure
 - **Frame in this lecture:** Brief analogy. "We put it into the furnace to diffuse out the hydrogen within four hours of getting the test report back three days later from the test lab." Tom uses it as a parallel example of mis-sequenced processing — the operation was nominally performed but in the wrong order to do any good. May correspond to one of the existing hydrogen cracking cases in the canon but is too compressed here to identify confidently.
 
 ### Preheat-on-Friday, weld-on-Monday case
 - **Anchor:** `§4.p3`
-- **canonical_cluster_id:** "Preheat lapse before Monday welding"
+- **canonical_cluster_id:** PROPOSED: Preheat lapse before Monday welding
 - **Frame in this lecture:** Same mis-sequencing analogy as above. Steel preheated Friday, welded Monday — the preheat had long dissipated.
 
 ## Materials referenced (not cases)

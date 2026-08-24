@@ -39,7 +39,7 @@
 
 ### Elihu Thomson and the invention of resistance spot welding
 - **Anchor:** `§5.p3`, `§5.p4`
-- **canonical_cluster_id:** "Elihu Thomson invention of resistance spot welding"
+- **canonical_cluster_id:** PROPOSED: Elihu Thomson invention of resistance spot welding
 - **Frame in this lecture:** Historical origin of automotive spot welding. Thomson — MIT EE professor, one-year MIT president, GE co-founder with Edison in Lynn, MA. ~380 patents (#2 after Edison's ~400).
 - **Era:** 1890s
 

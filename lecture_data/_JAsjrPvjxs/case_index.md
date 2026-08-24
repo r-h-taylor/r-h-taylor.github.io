@@ -32,7 +32,7 @@ This lecture is primarily a history-of-welding and history-of-steelmaking lectur
 
 ### Quonset Point submarine hull cap welding
 - **Anchor:** `§5.p1`, `§7.p3`
-- **canonical_cluster_id:** "Quonset Point submarine hull cap fixturing and welding practice"
+- **canonical_cluster_id:** PROPOSED: Quonset Point submarine hull cap fixturing and welding practice
 - **Frame in this lecture:** Student-led description of automated tractor-welding of pre-triangulated submarine cap heads, ~100 weld passes per joint, back-gouging, inert gas shielding, 3mm defect limit. Tom then adds the secrecy aside about Soviet satellite measurement of hull thickness.
 
 ### Submarine torpedo tube distortion control
@@ -63,7 +63,7 @@ This lecture is primarily a history-of-welding and history-of-steelmaking lectur
 
 ### John Chipman / MIT and the iron-carbon phase diagram
 - **Anchor:** `§8.p1`, `§8.p2`
-- **canonical_cluster_id:** "John Chipman MIT steelmaking research (Manhattan Project era through 1973)"
+- **canonical_cluster_id:** PROPOSED: John Chipman MIT steelmaking research (Manhattan Project era through 1973)
 - **Frame in this lecture:** Chipman applied physical chemistry to 1500°C steel melts in Building 8 basement, developed the modern iron-carbon phase diagram (1973), worked on the Manhattan Project developing sulfide ceramic crucibles for uranium and plutonium melting. His treatises appear enshrined in Plexiglas in Chinese libraries as the seminal text on steelmaking.
 
 ### Saugus Iron Works wrought iron production
@@ -73,12 +73,12 @@ This lecture is primarily a history-of-welding and history-of-steelmaking lectur
 
 ### Bessemer converter (1856)
 - **Anchor:** `§9.p1`, `§9.p2`, `§9.p3`
-- **canonical_cluster_id:** "Bessemer converter introduction (1856)"
+- **canonical_cluster_id:** PROPOSED: Bessemer converter introduction (1856)
 - **Frame in this lecture:** The counterflow preheating innovation that made it possible to reach 1500°C using hydrocarbon combustion, by preheating incoming air with exiting combustion gases.
 
 ### Basic open hearth (Carnegie, 1880s)
 - **Anchor:** `§9.p4`, `§9.p5`
-- **canonical_cluster_id:** "Basic open hearth furnace (Carnegie 1880s)"
+- **canonical_cluster_id:** PROPOSED: Basic open hearth furnace (Carnegie 1880s)
 - **Frame in this lecture:** Half-football-field-sized brick-lattice regenerative furnace, three-hundred-ton tap per day, the standard process for steel for the first hundred years.
 
 ### Basic oxygen furnace (postwar Austria)
@@ -103,12 +103,12 @@ This lecture is primarily a history-of-welding and history-of-steelmaking lectur
 
 ### Morris Cohen / George Krauss / MIT brittle-fracture research
 - **Anchor:** `§11.p2`, `§11.p4`
-- **canonical_cluster_id:** "Morris Cohen MIT postwar brittle fracture research"
+- **canonical_cluster_id:** PROPOSED: Morris Cohen MIT postwar brittle fracture research
 - **Frame in this lecture:** Cohen was the postwar Mr. Steel at MIT studying brittle fracture of welded ships; Krauss was his doctoral student and inherited the Mr. Steel title; *Steels* (Krauss's textbook) is Tom's source for the carbon-vs-hardness curve.
 
 ### Medieval steel quenching (Nubian slave / blood quench)
 - **Anchor:** `§11.p8`
-- **canonical_cluster_id:** "Medieval Islamic sword quenching practice"
+- **canonical_cluster_id:** PROPOSED: Medieval Islamic sword quenching practice
 - **Frame in this lecture:** Tom's undergraduate history paper material — Muslim swordsmiths during the Middle Ages believed quenching a hot blade through a living person or in blood produced a better edge than quenching in water or oil.
 - **Related canon entry:** "Damascus sword quenching practice", "Medieval sword tempering practice".
 

@@ -42,7 +42,7 @@ This lecture's center of gravity is the **A106 pipe purchase-order dispute** (§
 
 ### Faraday cage Georgia missile-handling building
 - **Anchor:** `§2.p2`–`§2.p5`
-- **canonical_cluster_id:** "Georgia missile-handling building Faraday cage"
+- **canonical_cluster_id:** PROPOSED: Georgia missile-handling building Faraday cage
 - **Frame in this lecture:** Student in the class describes a Faraday cage installed at a missile-handling building in Georgia — four towers approximately 300 yards apart with cables strung between them in an X pattern — for communications security (preventing eavesdropping rather than for radiation containment). Tom uses it to illustrate Faraday-cage principles in the context of lightning protection code history.
 - **Materials/systems:** Tower-and-cable Faraday cage for electromagnetic shielding.
 - **Era:** Student's prior military experience; date not specified.
@@ -73,14 +73,14 @@ This lecture's center of gravity is the **A106 pipe purchase-order dispute** (§
 
 ### Ford Motor Company ISO 9000 supplier mandate
 - **Anchor:** `§4.p20`–`§4.p22`
-- **canonical_cluster_id:** "Ford ISO 9000 first-tier supplier mandate"
+- **canonical_cluster_id:** PROPOSED: Ford ISO 9000 first-tier supplier mandate
 - **Frame in this lecture:** In the early 1990s Ford required all first-tier worldwide suppliers to be ISO 9000 certified as a condition of purchase, with no exceptions. Tom presents this as the watershed moment that forced American manufacturing to scramble for ISO 9000 certification and as a demonstration that ISO won this round of the ISO-vs-ANSI competition. Boeing later adopted similar requirements.
 - **Materials/systems:** Quality management system documentation (process standard, not materials standard).
 - **Era:** Early 1990s.
 
 ### MIT undergraduate germanium thermometer calibration
 - **Anchor:** `§6.p5`
-- **canonical_cluster_id:** "MIT undergraduate germanium thermometer superconductivity calibration"
+- **canonical_cluster_id:** PROPOSED: MIT undergraduate germanium thermometer superconductivity calibration
 - **Frame in this lecture:** As an MIT undergraduate working in a superconductivity lab attempting to break the (then ~20.3 K) world record, Tom's group owned a single $500 germanium thermometer. Buying a second one to hedge against failure produced six months of confusion because the two thermometers disagreed by a couple of tenths of a degree near liquid helium — and they could not determine which was correct. Used as a personal illustration that adding a second measurement can destroy confidence rather than build it.
 - **Materials/systems:** Germanium resistance thermometry; superconducting transition temperature measurement.
 - **Era:** Tom's undergraduate years (late 1960s).

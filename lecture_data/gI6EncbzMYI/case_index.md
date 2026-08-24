@@ -34,7 +34,7 @@ This lecture is primarily a metallurgy fundamentals session — hardness, harden
 
 ### Beryllium copper spark-free tools
 - **Anchor:** `§2.p3`, `§2.p5`, `§2.p6`
-- **canonical_cluster_id:** "Beryllium copper spark-free tools (mining application)"
+- **canonical_cluster_id:** PROPOSED: Beryllium copper spark-free tools (mining application)
 - **Frame in this lecture:** Tom's own beryllium copper crescent wrench ($130) as a teaching prop. Used in methane-bearing mines because high thermal conductivity prevents the frictional hotspot that would ignite gas. Properties: well over 1 GPa strength, 150–180 ksi, hardness comparable to a steel wrench, but ten times the cost.
 - **Materials/systems:** beryllium copper, precipitation hardenable
 - **Note:** not in the canonical cluster list; proposed as a recurring teaching case since Tom carries the wrench as a classroom prop.

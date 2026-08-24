@@ -30,7 +30,7 @@
 
 ### Sandia nuclear weapons cost rationale
 - **Anchor:** `§4.p3`, `§4.p4`
-- **canonical_cluster_id:** "Sandia nuclear weapons cost-per-fatality rationale"
+- **canonical_cluster_id:** PROPOSED: Sandia nuclear weapons cost-per-fatality rationale
 - **Frame in this lecture:** Anecdote from a Sandia National Lab contact — nuclear weapons are funded at $40–50B/year (DOE) because they are the lowest dollar-cost-per-fatality weapon system. Used to close the "submarines are part of the nuclear triad, so budgets are large" thread.
 
 ### Bethlehem Steel welding procedure notebook
@@ -40,7 +40,7 @@
 
 ### Caterpillar Peoria welding operation
 - **Anchor:** `§5.p3`
-- **canonical_cluster_id:** "Caterpillar Peoria welding operation (5,000 welders)"
+- **canonical_cluster_id:** PROPOSED: Caterpillar Peoria welding operation (5,000 welders)
 - **Frame in this lecture:** Cited as the largest welding facility in the United States (~5,000 welders), illustrating the scale at which welder certification operates.
 
 ### Oil field welder recertification burden
@@ -50,12 +50,12 @@
 
 ### American Welding Society as certification business
 - **Anchor:** `§8.p1`, `§8.p2`
-- **canonical_cluster_id:** "American Welding Society certification revenue growth (1990s–2010s)"
+- **canonical_cluster_id:** PROPOSED: American Welding Society certification revenue growth (1990s–2010s)
 - **Frame in this lecture:** AWS revenue grew from $1–2M/year to $10–15M/year on welder certification fees; new Miami headquarters; AWS Foundation supports trade-school welding programs.
 
 ### Triangle Engineering (Boston-area AWS testing facility)
 - **Anchor:** `§8.p1`
-- **canonical_cluster_id:** "Triangle Engineering AWS welder testing facility"
+- **canonical_cluster_id:** PROPOSED: Triangle Engineering AWS welder testing facility
 - **Frame in this lecture:** Named example of an AWS-approved testing facility south of Boston.
 
 ## Figures referenced (not cases)

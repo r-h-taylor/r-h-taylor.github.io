@@ -86,7 +86,7 @@
 
 ### Bethlehem Steel lamellar tearing (1970s)
 - **Anchor:** `§6.p14`
-- **canonical_cluster_id:** "Bethlehem Steel lamellar tearing problem (1970s)"
+- **canonical_cluster_id:** PROPOSED: Bethlehem Steel lamellar tearing problem (1970s)
 - **Frame in this lecture:** Tom's experience with lamellar tearing as a Bethlehem Steel problem during his employment there.
 - **Era:** 1970s.
 

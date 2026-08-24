@@ -12,7 +12,7 @@
 
 ### Chesapeake Bay Bridge-Tunnel
 - **Anchor:** `§1.p1`
-- **canonical_cluster_id:** "Chesapeake Bay Bridge-Tunnel"
+- **canonical_cluster_id:** PROPOSED: Chesapeake Bay Bridge-Tunnel
 - **Frame in this lecture:** Cited in passing as 17-mile bridge-tunnel illustrating bridge typology variety.
 
 ### Boston Big Dig (cable-stayed bridge inspection)
@@ -88,7 +88,7 @@
 
 ### Bao Steel (China)
 - **Anchor:** `§7.p3`
-- **canonical_cluster_id:** "Bao Steel — Chinese government-financed integrated steel"
+- **canonical_cluster_id:** PROPOSED: Bao Steel — Chinese government-financed integrated steel
 - **Frame in this lecture:** Largest steel company in the world (as of lecture date); financed by Chinese government. Same pattern as POSCO.
 
 ### Lakshmi Mittal steel mill acquisition strategy

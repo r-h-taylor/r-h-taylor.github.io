@@ -25,7 +25,7 @@
 
 ### Costa Concordia ("this guy in Italy")
 - **Anchor:** `§2.p12`
-- **canonical_cluster_id:** "Costa Concordia grounding (2012)"
+- **canonical_cluster_id:** PROPOSED: Costa Concordia grounding (2012)
 - **Frame in this lecture:** Brief aside ("kind of went close to the rocks") tied to the recurring-failure theme. Tom does not name the ship.
 - **Era:** 2012.
 

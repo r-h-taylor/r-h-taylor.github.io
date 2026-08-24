@@ -13,7 +13,7 @@
 
 ### Bethlehem Steel research culture (Tom's early career)
 - **Anchor:** `§6.p4`–`§6.p6`
-- **canonical_cluster_id:** "Bethlehem Steel research department culture (Tom's early career, mid-1970s)"
+- **canonical_cluster_id:** PROPOSED: Bethlehem Steel research department culture (Tom's early career, mid-1970s)
 - **Frame in this section:** Tom's attempt to do finite element analysis of a spot-welding problem was denied by his Bethlehem Steel manager — on company time, on his own time, on Saturdays. The same problem was published by Art Nied at GE Research two years later and won an award. Used as a parable about research-management-failure and the broader "cloning" culture at Bethlehem.
 - **Era:** Mid-1970s.
 - **Related cases in catalog:** "Bethlehem Steel Burns Harbor" exists in the canon; this episode is distinct (research department, not Burns Harbor plant).
@@ -30,7 +30,7 @@
 
 ### Boston Gas Tank (Corita Kent rainbow swash)
 - **Anchor:** `§8.p1`, `§8.p5`
-- **canonical_cluster_id:** "Boston Gas Tank Corita Kent mural (Ho Chi Minh urban legend)"
+- **canonical_cluster_id:** PROPOSED: Boston Gas Tank Corita Kent mural (Ho Chi Minh urban legend)
 - **Frame in this section:** Tom directs students to the Boston gas tanks visible from the Southeast Expressway, attributing a hidden silhouette of Ho Chi Minh to the painting. The "Ho Chi Minh hidden in the blue" claim is a well-known Boston urban legend that the artist (Corita Kent) denied; Tom delivers it as fact. Preserved per convention §16; flagged for reader.
 - **Era:** Mural painted 1971; repainted 1992.
 

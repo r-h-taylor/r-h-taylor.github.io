@@ -22,7 +22,7 @@ Lecture 1 is a course-introduction and externalities-framing lecture. It surface
 
 ### TATA Steel / J. J. Irani (India iron ore externality)
 - **Anchor:** `§8.p6`, `§8.p7`
-- **canonical_cluster_id:** "TATA Steel J.J. Irani India iron ore externality (World Economic Forum at MIT, early 1990s)"
+- **canonical_cluster_id:** PROPOSED: TATA Steel J.J. Irani India iron ore externality (World Economic Forum at MIT, early 1990s)
 - **Frame in this lecture:** Irani at the MIT World Economic Forum panel argues India makes steel in environmentally unfriendly ways because (a) iron ore is cheap (~$5/ton), (b) India needs foreign currency, (c) the technology to make it clean has to be paid for. Used by Tom to illustrate Maslow's-hierarchy-of-needs framing of why poor countries pollute.
 - **Era:** Early 1990s.
 

@@ -8,7 +8,7 @@ This lecture is heavily technical (stress tensors, yield criteria, anisotropy, c
 
 ### MIT-Harvard merger and George Eastman's $6M donation
 - **Anchor:** `§1.p1`–`§1.p4`
-- **canonical_cluster_id:** "MIT-Harvard 1914-1917 merger and Eastman donation"
+- **canonical_cluster_id:** PROPOSED: MIT-Harvard 1914-1917 merger and Eastman donation
 - **Frame in this lecture:** Opening anecdote. The 1914–1917 attempted merger, Massachusetts Supreme Court ruling against it, MIT's bankruptcy, George Eastman's $6 million anonymous donation (Building 6), and Harvard's pivot to founding the Harvard Business School as its de facto engineering school.
 - **Materials/systems:** none — institutional history.
 - **Era:** 1872–1917.

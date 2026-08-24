@@ -43,7 +43,7 @@ This lecture's primary teaching arc runs from corrosion under insulation (§1) t
 
 ### GE turbine heavy-section preheats
 - **Anchor:** `§4.p1`
-- **canonical_cluster_id:** "GE turbine heavy-section preheat foundation welds"
+- **canonical_cluster_id:** PROPOSED: GE turbine heavy-section preheat foundation welds
 - **Frame in this lecture:** Half-inch weld layers required 3–4 hour preheat holds to allow hydrogen to diffuse out before the next pass. Used as a contemporary parallel to the WWII armor case.
 - **Materials/systems:** heavy-section turbine foundation steel.
 - **Era:** unspecified.
@@ -51,7 +51,7 @@ This lecture's primary teaching arc runs from corrosion under insulation (§1) t
 
 ### Electric Boat administration building (flux-core welding)
 - **Anchor:** `§5.p3`
-- **canonical_cluster_id:** "Electric Boat administration building flux-core welding (consulting visit)"
+- **canonical_cluster_id:** PROPOSED: Electric Boat administration building flux-core welding (consulting visit)
 - **Frame in this lecture:** Brief aside — 25 years ago Tom was brought in by Electric Boat, taken to lunch in their new cafeteria building, which was welded with flux-core. Used to illustrate that flux-core is structurally adequate despite being higher in hydrogen than gas metal arc.
 - **Materials/systems:** structural steel, flux-core arc welding.
 - **Era:** ~1990 (25 years before Summer 2015).

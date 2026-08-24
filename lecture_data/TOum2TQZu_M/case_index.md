@@ -223,7 +223,7 @@
 
 ### Nuclear Metals (Concord, MA) rotating electrode process and depleted uranium production (from chunk 2)
 - **Anchor:** `§13.p2`–`§13.p3`
-- **canonical_cluster_id:** "Nuclear Metals (Concord MA) rotating electrode process and depleted uranium extrusion"
+- **canonical_cluster_id:** PROPOSED: Nuclear Metals (Concord MA) rotating electrode process and depleted uranium extrusion
 - **Frame in this lecture:** MIT Mech-E spinoff in Concord, MA; manufactured all US depleted-uranium kinetic-energy penetrator rounds by extrusion. About 20 years before lecture date, they developed the rotating electrode process: a spinning machined ingot of homogeneous alloy is melted at its tip by a plasma torch and centrifugally atomized into clean powder. Yields aerospace-quality superalloy powders for jet-engine rotors.
 - **Materials/systems:** Depleted uranium (extrusion); nickel-base superalloys (rotating electrode powder).
 - **Era:** Founded mid-20th century; rotating electrode process developed ~1990s; depleted uranium production discontinued after First Gulf War for Army applications (Navy may have continued).
@@ -243,53 +243,53 @@
 
 ### MIT transite (asbestos plate) sawing exposure (from chunk 3)
 - **Anchor:** `§19.p5`
-- **canonical_cluster_id:** MIT transite sawing exposure
+- **canonical_cluster_id:** "MIT transite sawing exposure"
 - **Frame in this chunk:** As a student, Tom sawcut transite (asbestos board) on a bandsaw without a mask. Dark-humor beat: as a student he wasn't an employee, so he could sue MIT for asbestosis if he ever developed it. Paired with the asbestos-glove-holes anecdote from the foundry.
 - **Era:** Tom's student years.
 
 ### Friction stir welding development for aluminum aircraft structures (from chunk 3)
 - **Anchor:** `§16.p4`
-- **canonical_cluster_id:** Friction stir welding development for aluminum aircraft structures
+- **canonical_cluster_id:** "Friction stir welding development for aluminum aircraft structures"
 - **Frame in this chunk:** Tom's "only new welding process in twenty-five years" datum. Of the ~200 welding/cutting processes in the welding handbook, 150 were developed 1875–1925, 50 between 1925–1975, and just one — friction stir welding — between 1975 and 2000. Boeing invested $10 million in a friction-stir aluminum-plate facility. Steel friction-stir welding has been stalled for twenty years due to lack of an electrode material with adequate hot strength.
 - **Materials/systems:** aluminum, magnesium; steel (unsolved).
 
 ### Boeing Friction-Stir Welding Machine Investment (from chunk 3)
 - **Anchor:** `§16.p4`
-- **canonical_cluster_id:** Boeing Friction-Stir Welding Machine Investment
+- **canonical_cluster_id:** "Boeing Friction-Stir Welding Machine Investment"
 - **Frame in this chunk:** $10 million Boeing facility for friction-stir welding of aluminum plates.
 
 ### Navy laser/plasma cladding for shaft and bearing repair (from chunk 3)
 - **Anchor:** `§16.p2`, `§16.p6`
-- **canonical_cluster_id:** "Navy spray and laser cladding repair program"
+- **canonical_cluster_id:** PROPOSED: Navy spray and laser cladding repair program
 - **Frame in this chunk:** Navy uses metal spray (flame spray, plasma spray) and laser cladding to repair worn shafts and bearings on ships and submarines. Builds up surface, then machines back to dimension. Tom notes copper alloy bearings and aluminum corrosion-resistant coatings as common applications.
 - **Materials/systems:** copper alloys, aluminum, steel.
 
 ### Frank Whittle jet engine invention (from chunk 3)
 - **Anchor:** `§16.p7`
-- **canonical_cluster_id:** Frank Whittle turbine engine development
+- **canonical_cluster_id:** "Frank Whittle turbine engine development"
 - **Frame in this chunk:** Tom's "the inventor doesn't always know what's impossible" parable. Whittle designed the first gas turbine in England in the late 1930s despite a prior authority (Lord Kelvin, per Tom's uncertain attribution) having declared it impossible.
 - **Note:** Tom calls him "Whipple" — bracketed correction to "Whittle" per convention §9.
 - **Era:** late 1930s.
 
 ### NAVSEA shipyard humidity welding specification (from chunk 3)
 - **Anchor:** `§18.p1`, `§18.p2`
-- **canonical_cluster_id:** Electric Boat welding humidity specification violation
+- **canonical_cluster_id:** "Electric Boat welding humidity specification violation"
 - **Frame in this chunk:** NAVSEA specification prohibits stick-electrode welding above a certain humidity threshold (to prevent hydrogen pickup and cracking in steel welds). The spec is violated 80% of welding days at Electric Boat and other shipyards, because shipyards are sited near water. Tom's case for "specs that exist on paper but are universally ignored because they're physically unachievable."
 - **Materials/systems:** HY-80, HY-100 steel welding; hydrogen embrittlement.
 
 ### Helicopter rotor containment specification (from chunk 3)
 - **Anchor:** `§18.p3`
-- **canonical_cluster_id:** Helicopter rotor containment specification
+- **canonical_cluster_id:** "Helicopter rotor containment specification"
 - **Frame in this chunk:** FAA/military spec requires turbine helicopter engine compartments to contain a failed rotor (so it cannot enter the cockpit). No material can do this at a weight allowing the helicopter to fly. Spec is universally ignored. Tom's second example in §4 of an unenforceable standard.
 
 ### Aluminum foamed structure (Gibson project) (from chunk 3)
 - **Anchor:** `§20.p1`, `§20.p2`
-- **canonical_cluster_id:** "MIT foamed aluminum research (Gibson)"
+- **canonical_cluster_id:** PROPOSED: MIT foamed aluminum research (Gibson)
 - **Frame in this chunk:** Professor Lorna Gibson at MIT had a multi-million-dollar program on foamed aluminum produced by gas injection into the melt (analogous to styrofoam manufacture, but with nitrogen). Sheets four to five inches thick and feet wide were produced; no commercial application was ever found. Tom's case for "easy to make, hard to use."
 
 ### High-pressure-melt fine metal powder atomization startup (from chunk 3)
 - **Anchor:** `§20.p3`
-- **canonical_cluster_id:** "High-pressure-melt fine powder atomization startup (Boston-area, unnamed)"
+- **canonical_cluster_id:** PROPOSED: High-pressure-melt fine powder atomization startup (Boston-area, unnamed)
 - **Frame in this chunk:** A local entrepreneur tried to make sub-30-micron metal powders by melting under high gas pressure to supersaturate the melt, then atomizing into a vacuum chamber so droplets would explode as gas came out of solution. Process worked technically but the economics and application never materialized. Sets up the §20.p4 explanation of why fine powders are pyrophoric.
 
 ### Pyrophoric metal powder fires (flares, rockets, fireworks) (from chunk 3)
@@ -299,7 +299,7 @@
 
 ### Barge machine turnings fire (chunk continuation) (from chunk 3)
 - **Anchor:** `§20.p5`
-- **canonical_cluster_id:** Barge machine turnings fire
+- **canonical_cluster_id:** "Barge machine turnings fire"
 - **Frame in this chunk:** Anecdote begins ("Professor Sway [Szekely] had a big project once that someone was transporting a bunch of old machine turnings in a big barge, and they're going to take them to the steel mill...") and is truncated by the chunk boundary. Continues in chunk 4.
 - **Note:** Tom names "Professor Sway" — bracketed as Julian Szekely, MIT materials processing professor.
 
@@ -312,7 +312,7 @@
 
 ### Air Force classified 50-megawatt laser weapon (open-literature inference) (from chunk 4)
 - **Anchor:** `§23.p1`–`§23.p3`
-- **canonical_cluster_id:** "Air Force 50-megawatt laser weapon classified power inference"
+- **canonical_cluster_id:** PROPOSED: Air Force 50-megawatt laser weapon classified power inference
 - **Frame in this lecture:** Tom's three-method inference from open literature (superconducting generator program, Bowen's halide glass window project, Rockwell engineer's space-shuttle-cargo-bay confirmation) deducing the classified laser weapon power and the rationale for sizing the Space Shuttle cargo bay.
 - **Materials/systems:** Halide glass laser windows, superconducting 50 MW airborne generator, Space Shuttle cargo bay dimensions.
 - **Era:** Late 1960s sizing decision; early 1980s Rockwell conversation.

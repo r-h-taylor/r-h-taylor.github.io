@@ -6,32 +6,32 @@
 
 ### Why no 3D printing of metals? (the Technology Review question)
 - **Anchor:** `§2.p2` (question posed), §§6-8 (technical reasons), §§9-10 (Navy electron-beam approach)
-- **canonical_cluster_id:** "Technology Review interview on metal 3D printing (2016)"
+- **canonical_cluster_id:** PROPOSED: Technology Review interview on metal 3D printing (2016)
 - **Frame in this lecture:** Tom uses a media-interview question as the spine for a full lecture on why metals resist 3D printing — mechanical (volume change, residual stress), surface (oxidation, surface tension), and heat-transfer reasons — and his own Navy electron-beam proposal as the would-be solution.
 
 ## Cases referenced
 
 ### Stereolithography invention (Chuck Hull, mid-1980s)
 - **Anchor:** `§3.p1`
-- **canonical_cluster_id:** "Stereolithography invention (Chuck Hull, mid-1980s)"
+- **canonical_cluster_id:** PROPOSED: Stereolithography invention (Chuck Hull, mid-1980s)
 - **Frame in this lecture:** First 3D printing technology — liquid polymer + two intersecting UV lasers. Used as origin point.
 - **Note:** Tom misattributes inventor's location as "University of Texas." Actual inventor: Chuck Hull at 3D Systems.
 
 ### Cima-Sachs MIT 3D printing
 - **Anchor:** `§3.p2`, `§3.p3`
-- **canonical_cluster_id:** "Cima-Sachs MIT 3D printing invention (late 1980s)"
+- **canonical_cluster_id:** PROPOSED: Cima-Sachs MIT 3D printing invention (late 1980s)
 - **Frame in this lecture:** Coined the term "3D printing." Adapted dot-matrix printheads to deposit ceramic slurry. First parts were ceramic molds for artificial hips.
 - **Materials/systems:** ceramic slurry, dot-matrix printhead, $300 hardware budget
 - **Era:** late 1980s
 
 ### Enzyme strips for blood-sugar testing
 - **Anchor:** `§3.p6`
-- **canonical_cluster_id:** Enzyme strips for blood sugar testing
+- **canonical_cluster_id:** "Enzyme strips for blood sugar testing"
 - **Frame in this lecture:** Tom recommended adopting 2D printheads for enzyme deposition; the company refused. Used to make the point that 2D printing applications outside the obvious ones were emerging in parallel with 3D.
 
 ### 3D-printed solder droplet circuit boards research
 - **Anchor:** `§4.p1`, `§4.p2`, `§7.p4`
-- **canonical_cluster_id:** 3D-printed solder droplet circuit boards research
+- **canonical_cluster_id:** "3D-printed solder droplet circuit boards research"
 - **Frame in this lecture:** Tom's research contract gave to a mech eng colleague to attempt 3D-printed PCBs. Motorola and Intel also tried; everyone gave up because of surface tension (developed quantitatively in §7).
 - **Era:** early-to-mid 1990s
 
@@ -44,12 +44,12 @@
 
 ### Pratt & Whitney 1975 laser turbine disk demonstration
 - **Anchor:** `§10.p2`
-- **canonical_cluster_id:** 1975 Pratt & Whitney laser turbine disk demonstration
+- **canonical_cluster_id:** "1975 Pratt & Whitney laser turbine disk demonstration"
 - **Frame in this lecture:** Earliest known metal 3D printing — a 25 kW laser making a five-inch turbine disc, one month per disc. Proves the physics works but unaffordable.
 
 ### Liberty ships and brittle fracture (1940s)
 - **Anchor:** `§5.p6`, `§5.p7`
-- **canonical_cluster_id:** Liberty ships and SS Schenectady
+- **canonical_cluster_id:** "Liberty ships and SS Schenectady"
 - **Frame in this lecture:** The case that motivated fracture mechanics. ~5,000 ships built; ~40 with major cracks; several total fractures. Used to teach the distinction between strength (force of fracture) and toughness (energy of fracture).
 - **Era:** WWII
 
@@ -61,12 +61,12 @@
 
 ### 2015 Amtrak Philadelphia derailment
 - **Anchor:** `§4.p5`
-- **canonical_cluster_id:** 2005 Philadelphia Amtrak derailment
+- **canonical_cluster_id:** "2005 Philadelphia Amtrak derailment"
 - **Frame in this lecture:** Used as the worked example for the *five whys* technique. **Note:** Tom dates this as recent ("a few years ago") and attributes engineer impairment to drugs — both points may need editor verification. Canonical case in the aggregate is dated 2005; Tom may be referring to the 2015 derailment instead.
 
 ### Boulder, Massachusetts laser aerospace parts facility
 - **Anchor:** `§10.p5`
-- **canonical_cluster_id:** Unnamed aerospace parts 3D printing project (Boulder, Massachusetts, ~2015)
+- **canonical_cluster_id:** "Unnamed aerospace parts 3D printing project (Boulder, Massachusetts, ~2015)"
 - **Frame in this lecture:** Brief forward reference — "a year ago I was visiting a place using a laser up in Boulder, Massachusetts." Tom flags this for tomorrow's lecture.
 
 ## Figures referenced (recurring numeric anchors)

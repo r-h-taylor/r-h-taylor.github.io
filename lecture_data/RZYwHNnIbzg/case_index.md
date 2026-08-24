@@ -70,7 +70,7 @@ The teaching arc of Lecture 15 runs from generic pressure-vessel stress relief t
 
 ### CANMET reactor neutron diffraction for residual stress
 - **Anchor:** `§2.p6`
-- **canonical_cluster_id:** "CANMET reactor neutron diffraction residual stress measurement"
+- **canonical_cluster_id:** PROPOSED: CANMET reactor neutron diffraction residual stress measurement
 - **Frame in this section:** Mentioned as the alternative to thermal stress relief verification — bring your pressure vessel to Canada for neutron diffraction analysis. Tom's point is that this isn't practical for production work.
 
 ## Figures referenced

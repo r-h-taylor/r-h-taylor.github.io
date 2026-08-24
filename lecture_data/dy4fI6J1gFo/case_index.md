@@ -74,7 +74,7 @@ This lecture is structured around the metallurgy of nickel superalloys and alumi
 
 ### Westinghouse Bettis crack-acceptance code exception
 - **Anchor:** `§4.p10`, `§5.p1`
-- **canonical_cluster_id:** "Westinghouse Bettis crack-acceptance welding code"
+- **canonical_cluster_id:** PROPOSED: Westinghouse Bettis crack-acceptance welding code
 - **Frame in this lecture:** Cited twice as the only welding code Tom knows of that permits leaving small cracks in place, on the basis of detailed fracture mechanics analysis. Used as the exception that proves the rule "all codes say grind out cracks."
 - **Materials/systems:** Naval nuclear welding code.
 
@@ -86,7 +86,7 @@ This lecture is structured around the metallurgy of nickel superalloys and alumi
 
 ### Coast Guard student question on Inconel pipe crack compression repair
 - **Anchor:** `§4.p1`–`§4.p9`
-- **canonical_cluster_id:** "Inconel pipe crush-repair proposal (Coast Guard student case, 2014)"
+- **canonical_cluster_id:** PROPOSED: Inconel pipe crush-repair proposal (Coast Guard student case, 2014)
 - **Frame in this lecture:** A Coast Guard student describes a proposed (but unused) repair scheme: mechanically compressing a cracked Inconel pipe to introduce compressive residual stresses at the crack and prevent growth. Tom has never heard of this approach; reasons through it on the spot, acknowledging the mechanics work but expressing skepticism about it as a critical-application solution.
 - **Materials/systems:** Inconel piping; heat-affected-zone cracking; residual stress engineering.
 - **Era:** 2014 (in-class report from a student's recent experience).

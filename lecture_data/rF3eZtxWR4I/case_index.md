@@ -179,7 +179,7 @@
 
 ### Comfort Adams and the founding of the American Welding Society (1921)
 - **Anchor:** `§5.p1`
-- **canonical_cluster_id:** "Comfort Adams and the founding of the American Welding Society (1921)"
+- **canonical_cluster_id:** PROPOSED: Comfort Adams and the founding of the American Welding Society (1921)
 - **Frame in this lecture:** AWS founded in 1921 after Adams's WWI shipbuilding service; AWS motto "to foster the art and science of welding" — admits welding is an art.
 
 ### Pentium chip tape-automated bonding

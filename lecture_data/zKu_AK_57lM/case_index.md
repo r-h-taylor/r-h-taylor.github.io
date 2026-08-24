@@ -25,7 +25,7 @@
 
 ### Office of Naval Research welding research funding (1980, MIT)
 - **Anchor:** `§4.p2`–`§4.p4`
-- **canonical_cluster_id:** "ONR welding research consortium funding (1980, MIT)"
+- **canonical_cluster_id:** PROPOSED: ONR welding research consortium funding (1980, MIT)
 - **Frame in this lecture:** Reagan administration gave ONR more money but no new head count, forcing larger contracts. First went to Penn State on piezoelectric ceramics; second to Tom at MIT — nearly $500K/year. Tom subcontracted Professor Hart's first contract. GM canceled their separate funding after finding 35/39 spot-weld root causes were maintenance issues, but Buick-Oldsmobile-Cadillac picked it up.
 - **Era:** 1980–early 1990s
 
@@ -37,7 +37,7 @@
 
 ### Bethlehem Steel out-of-vacuum electron beam weld trial (Westinghouse, mid-1970s)
 - **Anchor:** `§7.p8`
-- **canonical_cluster_id:** "Bethlehem Steel out-of-vacuum electron beam weld trial (Westinghouse, mid-1970s)"
+- **canonical_cluster_id:** PROPOSED: Bethlehem Steel out-of-vacuum electron beam weld trial (Westinghouse, mid-1970s)
 - **Frame in this lecture:** When Tom worked at Bethlehem Steel in the mid-1970s, he flew to Pittsburgh / Westinghouse research where a single-pass out-of-vacuum EB weld was made in 3/4-inch steel. Used as historical anchor for the "it has been done" point about out-of-vacuum EB.
 - **Era:** Mid-1970s
 

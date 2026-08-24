@@ -36,7 +36,7 @@ This lecture is structured as a recitation on materials substitution and competi
 
 ### Aircraft landing gear as first design constraint (Boeing)
 - **Anchor:** `§4.p3`
-- **canonical_cluster_id:** "Aircraft landing gear as primary design constraint"
+- **canonical_cluster_id:** PROPOSED: Aircraft landing gear as primary design constraint
 - **Frame in this lecture:** Boeing 747 replacement example. Used to teach that the heaviest load case (landing) determines the keel-beam design, which determines everything else.
 - **Materials/systems:** aircraft structure, keel beam
 - **Era:** contemporary engineering principle
@@ -50,7 +50,7 @@ This lecture is structured as a recitation on materials substitution and competi
 
 ### Roman concrete vs. modern concrete
 - **Anchor:** `§6.p3`, `§6.p4`
-- **canonical_cluster_id:** "Roman concrete durability"
+- **canonical_cluster_id:** PROPOSED: Roman concrete durability
 - **Frame in this lecture:** Mentioned as a possible student presentation topic; Tom notes Roman concrete has lasted two thousand years and there are recent scientific articles on why.
 - **Era:** ancient
 
@@ -76,7 +76,7 @@ This lecture is structured as a recitation on materials substitution and competi
 
 ### MIT campus history (filled land, Beacon Street, 77 Mass Ave beaver story)
 - **Anchor:** `§7.p9`, `§7.p10`, `§7.p11`
-- **canonical_cluster_id:** "MIT Cambridge campus founding (Back Bay filled land, 77 Mass Ave)"
+- **canonical_cluster_id:** PROPOSED: MIT Cambridge campus founding (Back Bay filled land, 77 Mass Ave)
 - **Frame in this lecture:** Lateral historical aside on Cambridge geography and the conditions of MIT's land acquisition (~1900). The beaver/widow/class-of-1877 story explains the building number.
 - **Era:** ~1850s land-fill through ~1900 MIT relocation
 

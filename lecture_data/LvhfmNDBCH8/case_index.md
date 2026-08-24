@@ -8,14 +8,14 @@ This lecture is unusual in that the first half (§1–§4) is an extended autobi
 
 ### Lester Thurow at MIT Sloan and the sound-bite revelation (1988)
 - **Anchor:** `§3.p1`, `§4.p1`–`§4.p8`
-- **canonical_cluster_id:** "Lester Thurow MIT Sloan Senior Executives program (1988)"
+- **canonical_cluster_id:** PROPOSED: Lester Thurow MIT Sloan Senior Executives program (1988)
 - **Frame in this lecture:** Tom's transformative encounter at the MIT Sloan Senior Executives program — the source of his sound-bite-driven teaching style. Used here to motivate the student-presentation assignment in §1–§2.
 - **Era:** 1988
 - **Note:** This is autobiography-as-pedagogy. May recur elsewhere in the corpus when Tom discusses communication or his own teaching philosophy.
 
 ### 2008 financial crisis / derivatives collapse
 - **Anchor:** `§4.p6`
-- **canonical_cluster_id:** 2008 financial crisis / derivatives collapse
+- **canonical_cluster_id:** "2008 financial crisis / derivatives collapse"
 - **Frame in this lecture:** Brief tangent triggered by mention of Robert Merton (Nobel laureate, Black-Scholes algorithm). Tom describes derivatives as "a big Ponzi scheme" and attributes the financial collapse to derivatives abuse. Not developed.
 
 ### Spot welding sound-bite anecdote (3,000 welds for 2,000 good ones)
@@ -25,7 +25,7 @@ This lecture is unusual in that the first half (§1–§4) is an extended autobi
 
 ### California ternplate gas tank (early 2000s emissions regulations)
 - **Anchor:** `§7.p1`–`§7.p2`
-- **canonical_cluster_id:** California gas tank emissions regulations and lead-coated steel manufacturing
+- **canonical_cluster_id:** "California gas tank emissions regulations and lead-coated steel manufacturing"
 - **Frame in this lecture:** Setup only — Tom introduces California's stiffer hydrocarbon emissions requirements and the historical use of ternplate (lead-coated steel) for gas tanks. The forming-limit-diagram problem this case is meant to illustrate is not reached in this segment; presumably developed in the next.
 - **Materials/systems:** Low-carbon steel, lead coating (ternplate), automotive gas tanks
 - **Era:** Background 1980s; problem early 2000s
@@ -33,12 +33,12 @@ This lecture is unusual in that the first half (§1–§4) is an extended autobi
 
 ### Kresge Auditorium lead roof
 - **Anchor:** `§7.p2`
-- **canonical_cluster_id:** Kresge Auditorium lead roof
+- **canonical_cluster_id:** "Kresge Auditorium lead roof"
 - **Frame in this lecture:** One-line reference, used as evidence that lead has outstanding corrosion resistance. Not developed.
 
 ### Lead pipe in residential plumbing (historical London water)
 - **Anchor:** `§7.p2`
-- **canonical_cluster_id:** Lead pipe in residential plumbing
+- **canonical_cluster_id:** "Lead pipe in residential plumbing"
 - **Frame in this lecture:** One-line reference to early London water-pipe history, supporting the lead-corrosion-resistance point. Not developed.
 
 ## Figures referenced (recurring numeric anchors, not cases)

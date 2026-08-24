@@ -60,17 +60,17 @@
 
 ### Patent attorney Frederick Fish and the Wright/Bell patents
 - **Anchor:** `§1.p1`
-- **canonical_cluster_id:** "Frederick Fish patent attorney (Wright Brothers, Alexander Graham Bell)"
+- **canonical_cluster_id:** PROPOSED: Frederick Fish patent attorney (Wright Brothers, Alexander Graham Bell)
 - **Frame in this lecture:** Pre-lecture anecdote. Tom did a battery case for Fish & Neave in New York, whose logo features the Wright brothers' glider. Used as conversational opener.
 
 ### Nutter McLennan and Fish receptionist anecdote (Brandeis)
 - **Anchor:** `§1.p2`
-- **canonical_cluster_id:** "Nutter McLennan and Fish receptionist Brandeis anecdote"
+- **canonical_cluster_id:** PROPOSED: Nutter McLennan and Fish receptionist Brandeis anecdote
 - **Frame in this lecture:** Tom's running anecdote — visited the Boston firm 35 years ago, frontispiece was Brandeis, receptionist didn't know who Brandeis was. Used as a recurring gripe about institutional memory.
 
 ### Norton Rose Fulbright and Leon Jaworski (Watergate)
 - **Anchor:** `§1.p3`
-- **canonical_cluster_id:** "Norton Rose Fulbright (formerly Norton Rose Jaworski) Watergate prosecutor anecdote"
+- **canonical_cluster_id:** PROPOSED: Norton Rose Fulbright (formerly Norton Rose Jaworski) Watergate prosecutor anecdote
 - **Frame in this lecture:** Pre-lecture conversational anecdote about firm-name history.
 
 ## Figures and frameworks referenced (not cases)

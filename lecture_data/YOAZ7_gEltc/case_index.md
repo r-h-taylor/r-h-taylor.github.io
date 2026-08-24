@@ -8,33 +8,33 @@
 
 ### Space Shuttle Columbia main engine injector posts (Rocketdyne)
 - **Anchor:** `§5.p1`
-- **canonical_cluster_id:** "Space Shuttle Columbia main engine injector post friction welding (Rocketdyne)"
+- **canonical_cluster_id:** PROPOSED: Space Shuttle Columbia main engine injector post friction welding (Rocketdyne)
 - **Frame in this section:** 600 closely-grouped cobalt-based alloy injector posts inertia welded to Inconel 718 stubs in less than 5 seconds each. Cited as the application for which inertia welding was "virtually the only practicable method."
 - **Materials/systems:** cobalt-based alloy, Inconel 718.
 - **Era:** late 1970s / early 1980s (Shuttle development era).
 
 ### F-14 fighter inertia welded components
 - **Anchor:** `§5.p1`
-- **canonical_cluster_id:** "F-14 fighter aircraft inertia welded components"
+- **canonical_cluster_id:** PROPOSED: F-14 fighter aircraft inertia welded components
 - **Frame in this section:** Brief mention; "uses several inertia welded parts." Not specified further.
 - **Era:** 1970s–1980s.
 
 ### GE 24-inch compressor ring assembly (Inco 718)
 - **Anchor:** `§5.p2`
-- **canonical_cluster_id:** "GE jet engine compressor ring inertia welding (Inco 718)"
+- **canonical_cluster_id:** PROPOSED: GE jet engine compressor ring inertia welding (Inco 718)
 - **Frame in this section:** Model 400 inertia welder making a 24-inch diameter compressor ring of Inconel 718 nickel alloy. Four-piece welded assembly saves 370 pounds of nickel alloy per part versus one-piece forging. "Other welding methods researched could not yield consistent quality."
 - **Materials/systems:** Inconel 718.
 - **Adjacent canonical clusters:** *GE Lynn jet engine turbine disk friction welding*, *Air Force One friction welding blade-to-disc program*, *Air Force blisk (bladed disc) welding development*.
 
 ### Caterpillar Tractor heavy-equipment inertia welding program
 - **Anchor:** `§6.p1`, `§6.p2`
-- **canonical_cluster_id:** "Caterpillar Tractor inertia welding program (1966–present)"
+- **canonical_cluster_id:** PROPOSED: Caterpillar Tractor inertia welding program (1966–present)
 - **Frame in this section:** Caterpillar has used inertia welding since 1966 across 500+ part numbers including track roller brackets (formerly castings), track rollers, pre-combustion chambers, filter housings, pin assemblies. Model 700 (largest machine ever made, 750-ton weld force) used for hydraulic piston rods; rods "just as reliable as solid forged rods" after 10+ years of service.
 - **Era:** 1966 onward.
 
 ### Outboard motor propeller shaft (Evinrude / Mercury / Chrysler Outboard)
 - **Anchor:** `§6.p3`
-- **canonical_cluster_id:** "Outboard motor propeller shaft inertia welding (stainless / carburized steel)"
+- **canonical_cluster_id:** PROPOSED: Outboard motor propeller shaft inertia welding (stainless / carburized steel)
 - **Frame in this section:** Stainless steel at one end (corrosion resistance in water), carburized and hardened steel at the gearbox end (wear resistance). Classic dissimilar-metals application.
 - **Materials/systems:** stainless steel, carburized hardened steel.
 
@@ -47,53 +47,53 @@
 
 ### Proto Tool ratchet wrench body
 - **Anchor:** `§7.p1`
-- **canonical_cluster_id:** "Proto Tool ratchet wrench inertia welding (sintered head to screw-machine handle)"
+- **canonical_cluster_id:** PROPOSED: Proto Tool ratchet wrench inertia welding (sintered head to screw-machine handle)
 - **Frame in this section:** Formerly one-piece forging; now a sintered steel head inertia welded to a screw-machine steel handle. Welded on Model 120.
 - **Materials/systems:** sintered steel, screw-machine steel.
 
 ### Schwinn bicycle fork stem assemblies
 - **Anchor:** `§7.p2`
-- **canonical_cluster_id:** "Schwinn bicycle fork stem inertia welding"
+- **canonical_cluster_id:** PROPOSED: Schwinn bicycle fork stem inertia welding
 - **Frame in this section:** Manufactured on Model 90 inertia welder.
 
 ### Oil and water well drill pipe (Hughes Tool, Drillco, others)
 - **Anchor:** `§7.p3`
-- **canonical_cluster_id:** "Oil and water well drill pipe inertia welding"
+- **canonical_cluster_id:** PROPOSED: Oil and water well drill pipe inertia welding
 - **Frame in this section:** 4.5-inch drill pipe with ~7 sq in weld area welded in less than 50 seconds floor-to-floor on Model 250 BX. Cited for reliability constraint: "problems which occur thousands of feet underground can be enormously expensive."
 
 ### Oil-well sucker rod thread connections
 - **Anchor:** `§7.p4`
-- **canonical_cluster_id:** "Oil well sucker rod inertia welding"
+- **canonical_cluster_id:** PROPOSED: Oil well sucker rod inertia welding
 - **Frame in this section:** Thread connections joined to sucker rod ends on Model 180 BX.
 
 ### Trailer brake cams (Rockwell, axle division)
 - **Anchor:** `§8.p1`
-- **canonical_cluster_id:** "Truck trailer brake cam inertia welding (formerly one-piece forging)"
+- **canonical_cluster_id:** PROPOSED: Truck trailer brake cam inertia welding (formerly one-piece forging)
 - **Frame in this section:** Formerly forged in one piece, now inertia welded at 60/hour on Model 250. Forging inventory reduced; part cost cut 24%.
 
 ### Three-piece oil pump gear assembly
 - **Anchor:** `§8.p2`
-- **canonical_cluster_id:** "Oil pump gear three-piece inertia welded assembly (Model 180B)"
+- **canonical_cluster_id:** PROPOSED: Oil pump gear three-piece inertia welded assembly (Model 180B)
 - **Frame in this section:** Two-weld cycle producing one part from three pieces of bar stock; replaces forging.
 
 ### Engine valve (head-to-stem dissimilar materials)
 - **Anchor:** `§8.p3`, `§8.p4`
-- **canonical_cluster_id:** "Automotive engine valve inertia welding (heat-resistant head to economy stem)"
+- **canonical_cluster_id:** PROPOSED: Automotive engine valve inertia welding (heat-resistant head to economy stem)
 - **Frame in this section:** Heat-resistant alloy head joined to less expensive stem material. Model Dual 60 produces 1,200 pieces/hour at 0.312-inch stem diameter. Model 90 with integrated hot flash-shearing maintains 450 pieces/hour.
 
 ### Transmission cover three-spindle mounting nut assembly
 - **Anchor:** `§9.p2`
-- **canonical_cluster_id:** "Transmission cover three-spindle simultaneous inertia welding"
+- **canonical_cluster_id:** PROPOSED: Transmission cover three-spindle simultaneous inertia welding
 - **Frame in this section:** Three mounting nuts welded simultaneously to transmission cover. Three-spindle cluster machine reduces machine count from nine to three; 360 covers/hour per machine.
 
 ### Cup / washer / stud trapped-washer assembly
 - **Anchor:** `§9.p3`, `§9.p4`, `§9.p5`
-- **canonical_cluster_id:** "Trapped-washer three-piece inertia welded assembly (six-station indexing)"
+- **canonical_cluster_id:** PROPOSED: Trapped-washer three-piece inertia welded assembly (six-station indexing)
 - **Frame in this section:** Three-piece assembly where a washer is mechanically trapped between cup and stud during the weld. Model 90 with six-station indexer, hopper, and vibratory bowl loading. 600 pieces/hour.
 
 ### Dana Corporation clevis-to-rod inertia welding
 - **Anchor:** `§9.p6`
-- **canonical_cluster_id:** "Dana Corporation clevis-to-rod inertia welding (Model 180B)"
+- **canonical_cluster_id:** PROPOSED: Dana Corporation clevis-to-rod inertia welding (Model 180B)
 - **Frame in this section:** Custom oriented loading of clevises (odd-shape parts) via four-position indexing table with search pattern; rod loaded via walking-beam mechanism from chute.
 
 ## Figures referenced (recurring numeric anchors)

@@ -25,7 +25,7 @@ This lecture's center of gravity is the **economics of structural-material proce
 
 ### MP35N cobalt-nickel alloy section-size limits
 - **Anchor:** `§2.p1`–`§2.p8`, `§5.p1`, `§10.p15`, `§11.p9`
-- **canonical_cluster_id:** "MP35N cold-worked cobalt-nickel alloy section-size limitation"
+- **canonical_cluster_id:** PROPOSED: MP35N cold-worked cobalt-nickel alloy section-size limitation
 - **Frame in this lecture:** Continuation from prior session. Annealed yield 60 ksi; with 65% cold work plus aging, up to 290–300 ksi tensile with 10% elongation and 48% RA — better than aircraft landing gear steel. But cannot be made in plates or in diameters much above 2 inches because cold-working tools fail. Available only as wire or sheet. Tom returns to it as the "if you could afford it and could make it thick" submarine hull thought experiment.
 - **Materials/systems:** MP35N (cobalt-nickel-chromium-molybdenum)
 - **Era:** Reference material, ongoing
@@ -46,7 +46,7 @@ This lecture's center of gravity is the **economics of structural-material proce
 
 ### Morgrip propeller bolt one-time-use practice
 - **Anchor:** `§4.p2`–`§4.p4`
-- **canonical_cluster_id:** "Morgrip propeller bolt single-use replacement"
+- **canonical_cluster_id:** PROPOSED: Morgrip propeller bolt single-use replacement
 - **Frame in this lecture:** Student-recalled shipyard experience confirms Tom's general rule: high-strength bolts (propellers, aircraft, bridges, racing cars) are one-time-article use because reuse degrades thread fit-up via micro-yielding and shifts torque-vs-preload calibration.
 - **Materials/systems:** high-strength bolts, propeller hubs
 - **Era:** Contemporary practice
@@ -69,21 +69,21 @@ This lecture's center of gravity is the **economics of structural-material proce
 
 ### Westbrook materials-volume-vs-price plot
 - **Anchor:** `§5.p5`
-- **canonical_cluster_id:** "Westbrook pounds-per-year vs. dollars-per-pound structural-materials correlation"
+- **canonical_cluster_id:** PROPOSED: Westbrook pounds-per-year vs. dollars-per-pound structural-materials correlation
 - **Frame in this lecture:** Tom credits Jack Westbrook (MIT alum, GE 1960s) for the log-log plot showing that halving material cost quadruples consumption — slope steeper than iso-market-size.
 - **Materials/systems:** all structural materials
 - **Era:** 1960s analysis, ongoing relevance
 
 ### Cement industry transport economics
 - **Anchor:** `§5.p6`–`§5.p7`
-- **canonical_cluster_id:** "Atlantic-coast cement barging distribution model"
+- **canonical_cluster_id:** PROPOSED: Atlantic-coast cement barging distribution model
 - **Frame in this lecture:** Tom's father worked for a cement company that manufactured at Vinea (likely Ravena), NY and barged to Atlantic-coast depots (Chesapeake VA, Baltimore/Philadelphia). 500–1,000-mile truck-rail limit for low-value-per-pound materials. Cement is the largest manufactured-material volume in the world at ~2B tons/yr.
 - **Materials/systems:** Portland cement
 - **Era:** Mid-to-late 20th century
 
 ### Kinik diamond pad conditioner
 - **Anchor:** `§5.p8`–`§5.p9`
-- **canonical_cluster_id:** "Kinik brazed-diamond CMP pad conditioner"
+- **canonical_cluster_id:** PROPOSED: Kinik brazed-diamond CMP pad conditioner
 - **Frame in this lecture:** Tom passes around a brazed-diamond pad conditioner used to dress chemical-mechanical-polish pads in semiconductor planarization (200–400 processing steps per chip). Functions as structural abrasive plus high-thermal-conductivity substrate.
 - **Materials/systems:** brazed diamond, polymer pad
 - **Era:** Contemporary (2011)
@@ -104,7 +104,7 @@ This lecture's center of gravity is the **economics of structural-material proce
 
 ### MIT engineering-school department history
 - **Anchor:** `§7.p1`–`§7.p16`
-- **canonical_cluster_id:** "MIT engineering department founding chronology"
+- **canonical_cluster_id:** PROPOSED: MIT engineering department founding chronology
 - **Frame in this lecture:** Origin of "civil engineering" via 1823 Rensselaer (Erie Canal needs) distinguishing from West Point military engineering. MIT 1865 course numbering: 1 Civil, 2 Mechanical, 3 Mining (→ Metallurgy 1888 → Materials 1974), 4 Architecture, 5 Chemistry, 6 (→ EE 1890s). Elihu Thompson and Edison as GE co-founders. Sloan's 1950 gift removing management from the School of Engineering. Tom's role in the 1996 report creating the Engineering Systems Division — originally drafted as "Division of Engineering Management," renamed to evade Sloan School's M-word ownership. Bioengineering as planned outgrowth of the same perpendicular-structure mechanism.
 - **Materials/systems:** institutional, not material
 - **Era:** 1797 (West Point) through 2011
@@ -120,7 +120,7 @@ This lecture's center of gravity is the **economics of structural-material proce
 
 ### Bismuth-telluride thermoelectric pipeline sensor power
 - **Anchor:** `§8.p9`–`§8.p12`
-- **canonical_cluster_id:** "Bismuth-telluride thermoelectric remote-pipeline sensor power"
+- **canonical_cluster_id:** PROPOSED: Bismuth-telluride thermoelectric remote-pipeline sensor power
 - **Frame in this lecture:** Hand-passed module: ~20°C ΔT yields 5V across plasma-sprayed aluminum / polymer-insulated Bi₂Te₃ array. Used on remote gas pipelines, heat supplied by a platinized catalytic Coleman-lantern-style mantle oxidizing pipeline gas.
 - **Materials/systems:** Bi₂Te₃, PbTe, platinum catalyst, silica mantle
 - **Era:** Contemporary
@@ -142,7 +142,7 @@ This lecture's center of gravity is the **economics of structural-material proce
 
 ### Langmuir vaporization and tungsten light-bulb filament loss
 - **Anchor:** `§10.p3`
-- **canonical_cluster_id:** "Langmuir GE vaporization studies and tungsten filament burnout"
+- **canonical_cluster_id:** PROPOSED: Langmuir GE vaporization studies and tungsten filament burnout
 - **Frame in this lecture:** Tom credits Irving Langmuir (GE Research Labs, ~100 years ago, Nobel laureate) with founding surface-vaporization science motivated by tungsten light-bulb filament failure. The "Langmuir" unit (~10⁻⁸ atm·s for one monolayer at unity sticking) anchors the vapor-deposition rate argument.
 - **Materials/systems:** tungsten filament, vacuum surfaces
 - **Era:** Early 20th century
@@ -196,7 +196,7 @@ This lecture's center of gravity is the **economics of structural-material proce
 
 ### Star Wars / SDI (referenced)
 - **Anchor:** `§11.p22`
-- **canonical_cluster_id:** "Strategic Defense Initiative materials-fantasy critique"
+- **canonical_cluster_id:** PROPOSED: Strategic Defense Initiative materials-fantasy critique
 - **Frame in this lecture:** Cited as exemplar of "defense department thinking … when you're not limited by science or physics or chemistry."
 - **Materials/systems:** —
 - **Era:** 1980s

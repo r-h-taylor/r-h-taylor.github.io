@@ -20,13 +20,13 @@
 
 ### Eagar wife's engagement ring (electron-beam-melted platinum-iridium)
 - **Anchor:** `§7.p10`
-- **canonical_cluster_id:** "Eagar wife's engagement ring (electron beam melt, Building 8)"
+- **canonical_cluster_id:** PROPOSED: Eagar wife's engagement ring (electron beam melt, Building 8)
 - **Frame in this lecture:** Tom made his wife's engagement ring himself, electron-beam-melting platinum-iridium on the 4th floor of MIT Building 8 with an old radar power supply, nearly electrocuting himself. Used as illustration of unique vs. high-volume manufacturing.
 - **Materials/systems:** platinum-iridium, electron beam melting
 
 ### Mike Tanyon's laminated silver wedding band
 - **Anchor:** `§7.p10`
-- **canonical_cluster_id:** "Tanyon laminated silver wedding band"
+- **canonical_cluster_id:** PROPOSED: Tanyon laminated silver wedding band
 - **Frame in this lecture:** Colleague Mike Tanyon made his wedding band by diffusion-bonding/laminating layers of sterling silver and silver, rolling and twisting and machining. Companion example to Tom's own ring for unique-object manufacturing.
 - **Materials/systems:** sterling silver, diffusion bonding
 - **Note:** spelling of "Tanyon" flagged for editor review.

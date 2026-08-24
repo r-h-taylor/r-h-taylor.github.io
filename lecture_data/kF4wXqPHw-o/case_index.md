@@ -29,7 +29,7 @@ This lecture works through the hierarchy of engineering design — conceptual, a
 
 ### Stata Center (MIT Building 32 / Gehry crumpled-paper concept)
 - **Anchor:** `§5.p3`–`§5.p6`
-- **canonical_cluster_id:** "Stata Center (Frank Gehry conceptual design)"
+- **canonical_cluster_id:** PROPOSED: Stata Center (Frank Gehry conceptual design)
 - **Frame in this lecture:** Stage-business case. Tom crumples four sheets of paper to demonstrate how Frank Gehry presented the conceptual design of the Stata Center to MIT physical-plant head Vicki Sirianni. Budget went from $115M to $430M; MIT froze salaries for two years. Used to illustrate how informal conceptual designs become consequential.
 - **Materials/systems:** Architectural concrete, steel framing.
 - **Era:** Late 1990s–early 2000s construction.

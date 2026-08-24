@@ -70,7 +70,7 @@ This lecture is the hydrogen-cracking war-stories session of the welding metallu
 
 ### HSLA-80 / A710 development (International Nickel)
 - **Anchor:** `§5.p6`
-- **canonical_cluster_id:** "International Nickel A710 / HSLA-80 predecessor development"
+- **canonical_cluster_id:** PROPOSED: International Nickel A710 / HSLA-80 predecessor development
 - **Frame:** A710 as predecessor to HSLA-80; one-to-two percent nickel; considered as crack-stopper insert material but rejected on cost and global nickel supply. Tom's young-engineer question about building the whole pipeline out of it.
 
 ### Gas vs. liquid pipeline fracture mechanics
